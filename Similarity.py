@@ -15,7 +15,7 @@ result_file_path = os.environ['RESULT_JSON_FILE_PATH']
 model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2', device='cpu', cache_folder='./')
 # save model in models folder (you need to create the folder on your own beforehand)
 # model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2', device='cpu', cache_folder='./models/')
-print("Read Input Files ...\n")
+print("Read Input Files ...")
 # Read queries from file and split by line breaks
 with open(input_en_file_path, "r", encoding='utf-8') as query_file:
     queries = query_file.read().split("\n\n")
@@ -45,7 +45,7 @@ corpus_embedding = model.encode(corpus, convert_to_tensor=True)
 # top_k = min(5, len(corpus))
 top_k = 1
 results = []
-print("Loop of queries ...\n")
+print("Loop of queries ...")
 for query in queries:
     query_embedding = model.encode(query, convert_to_tensor=True)
 
@@ -68,7 +68,7 @@ for query in queries:
     #     print(f'{round(score.item(), 3)} | {corpus[idx]}')
 # print(results)
 
-print("Export to files ...\n")
+print("Export to files ...")
 
 with open(result_file_path, 'w', encoding="utf-8") as file:
     json.dump(results, file, ensure_ascii=False, indent=4)
