@@ -2,22 +2,26 @@ from sentence_transformers import SentenceTransformer, util
 from dotenv import load_dotenv
 import os
 import torch
+import json
 
 load_dotenv('.env')
 # Load Limit Score constant from env
 limit_score = float(os.environ['LIMIT_SCORE'])
+input_cn_file_path = os.environ['OUT_CN_FILE_PATH']
+input_en_file_path = os.environ['OUT_EN_FILE_PATH']
+result_file_path = os.environ['RESULT_JSON_FILE_PATH']
 
 # save model in current directory
 model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2', device='cpu', cache_folder='./')
 # save model in models folder (you need to create the folder on your own beforehand)
 # model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2', device='cpu', cache_folder='./models/')
-
+print("Read Input Files ...\n")
 # Read queries from file and split by line breaks
-with open("queries.txt", "r", encoding='utf-8') as query_file:
+with open(input_en_file_path, "r", encoding='utf-8') as query_file:
     queries = query_file.read().split("\n\n")
 
 # Read corpus from file and split by line breaks
-with open("corpus.txt", "r", encoding='utf-8') as corpus_file:
+with open(input_cn_file_path, "r", encoding='utf-8') as corpus_file:
     corpus = corpus_file.read().split("\n\n")
 
 # print(corpus)
@@ -36,11 +40,12 @@ with open("corpus.txt", "r", encoding='utf-8') as corpus_file:
 
 # Query sentences:
 # queries = ['你能幫助我嗎？', '我是男孩子', '一個女人正在拉小提琴']
-
+print("Chinese model encoding by embedding ...\n")
 corpus_embedding = model.encode(corpus, convert_to_tensor=True)
 # top_k = min(5, len(corpus))
 top_k = 1
 results = []
+print("Loop of queries ...\n")
 for query in queries:
     query_embedding = model.encode(query, convert_to_tensor=True)
 
@@ -62,3 +67,8 @@ for query in queries:
     # for score, idx in zip(top_results[0], top_results[1]):
     #     print(f'{round(score.item(), 3)} | {corpus[idx]}')
 # print(results)
+
+print("Export to files ...\n")
+
+with open(result_file_path, 'w', encoding="utf-8") as file:
+    json.dump(results, file, ensure_ascii=False, indent=4)

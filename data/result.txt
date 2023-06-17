@@ -1,0 +1,82 @@
+[
+    {
+        "query": "MFS Meridian Funds (the \"Company\") and each of the funds listed on page 6 of the Prospectus (the \"Funds\" and, individually, a \"Fund\") are authorised by the Securities and Futures Commission (the \"SFC\") in Hong Kong unless otherwise specified below.",
+        "score": 0.841,
+        "document": " MFS全盛基金（簡稱「本公司」）及列在基金說明書第 4頁之每一基金（個別及合 稱為「基金」及「本基金」）獲香港證券及期貨事務監察委員會（簡稱「證監會」） 所認可，除非下文另有說明。"
+    },
+    {
+        "query": "It does not mean any Fund is suitable for all investors nor is it an endorsement of its suitability for any particular investor or class of investors.",
+        "score": 0.882,
+        "document": "所述認可不表示任何基金適合於所有投資者，亦非認同對具體投資 者或某類投資者的適合性。"
+    },
+    {
+        "query": "The Funds' website has not been reviewed by the SFC and may contain information on funds not authorized by the SFC.",
+        "score": 0.834,
+        "document": "本基金的網站並未經證監會審閱，並可能包含尚未經證監 會認可的基金資訊。"
+    },
+    {
+        "query": "Warning: In relation to the funds as set out in the Prospectus, only the following funds are authorized by the SFC pursuant to section 104 of the SFO and hence may be offered to the public of Hong Kong: 1.",
+        "score": 0.831,
+        "document": " 提示： 就基金說明書所述基金而言，僅下列基金根據《證券及期貨條例》第 104條 獲證監會批准，故可向香港公眾發售： 1."
+    },
+    {
+        "query": "Blended Research European Equity Fund 3.",
+        "score": 0.906,
+        "document": " 歐洲股票綜合研究基金(Blended Research European Equity Fund) 3."
+    },
+    {
+        "query": "Continental European Equity Fund 4.",
+        "score": 0.939,
+        "document": " 歐洲大陸股票基金(Continental European Equity Fund) 4."
+    },
+    {
+        "query": "Emerging Markets Equity Fund 6.",
+        "score": 0.962,
+        "document": " 新興市場股票基金(Emerging Markets Equity Fund) 6."
+    },
+    {
+        "query": "European Core Equity Fund 7.",
+        "score": 0.971,
+        "document": " 歐洲核心股票基金(European Core Equity Fund) 7."
+    },
+    {
+        "query": "European Research Fund 8.",
+        "score": 0.961,
+        "document": " 歐洲研究基金(European Research Fund) 8."
+    },
+    {
+        "query": "European Smaller Companies Fund 9.",
+        "score": 0.976,
+        "document": " 歐洲小型公司基金(European Smaller Companies Fund) 9."
+    },
+    {
+        "query": "Global Concentrated Fund 11.",
+        "score": 0.969,
+        "document": " 全球密集基金(Global Concentrated Fund) 11."
+    },
+    {
+        "query": "Global Equity Fund 12.",
+        "score": 0.957,
+        "document": " 全球股票基金(Global Equity Fund) 12."
+    },
+    {
+        "query": "Global High Yield Fund 13.",
+        "score": 0.957,
+        "document": " 全球高收益基金(Global High Yield Fund) 13."
+    },
+    {
+        "query": "Global Research Focused Fund 14.",
+        "score": 0.947,
+        "document": " 全球重點研究基金(Global Research Focused Fund) 14."
+    },
+    {
+        "query": "Japan Equity Fund 17.",
+        "score": 0.977,
+        "document": " 日本股票基金(Japan Equity Fund) 17."
+    },
+    {
+        "query": "Limited Maturity Fund 18.",
+        "score": 0.958,
+        "document": " 有限償還期基金(Limited Maturity Fund) 18."
+    }
+]
