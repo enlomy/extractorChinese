@@ -3,8 +3,6 @@ from dotenv import load_dotenv
 import os
 import torch
 
-
-
 load_dotenv('.env')
 # Load Limit Score constant from env
 limit_score = float(os.environ['LIMIT_SCORE'])
