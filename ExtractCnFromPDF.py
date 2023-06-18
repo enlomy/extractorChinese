@@ -54,7 +54,7 @@ def save_segments_to_file(chinese_sentences):
     with open(output_file_path, 'w', encoding='utf-8') as file:
         for sentence in chinese_sentences:
             file.write(sentence + '\n\n')
-            print(sentence)
+            # print(sentence)
 
     # Print the extracted result
     print("Text extracted from PDF and saved to", output_file_path)

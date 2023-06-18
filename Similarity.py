@@ -53,8 +53,8 @@ for query in queries:
     top_score, top_idx = torch.topk(cos_scores, k=top_k)
 
     # If score is less than LIMIT_SCORE, ignore the training data
-    if round(top_score.item(), 3) < limit_score:
-        continue
+    # if round(top_score.item(), 3) < limit_score:
+    #     continue
 
     result = {
         "query": query,
@@ -69,6 +69,8 @@ for query in queries:
 # print(results)
 
 print("Export to files ...")
+print("Result count : ")
+print(len(results))
 
 with open(result_file_path, 'w', encoding="utf-8") as file:
     json.dump(results, file, ensure_ascii=False, indent=4)
