@@ -58,5 +58,6 @@ def save_segments_to_file(english_sentences):
 
 
 textFromPdf = extract_text_from_pdf(file_path)
-segments = get_sentences_segments(textFromPdf)
-save_segments_to_file(segments)
+save_text_to_file(textFromPdf,os.environ["OUT_EN_FILE_PATH"])
+# segments = get_sentences_segments(textFromPdf)
+# save_segments_to_file(segments)

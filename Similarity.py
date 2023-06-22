@@ -42,8 +42,8 @@ with open(input_cn_file_path, "r", encoding='utf-8') as corpus_file:
 # queries = ['你能幫助我嗎？', '我是男孩子', '一個女人正在拉小提琴']
 print("Chinese model encoding by embedding ...\n")
 corpus_embedding = model.encode(corpus, convert_to_tensor=True)
-# top_k = min(5, len(corpus))
-top_k = 1
+top_k = max(5, len(corpus))
+# top_k = 1
 results = []
 print("Loop of queries ...")
 for query in queries:
