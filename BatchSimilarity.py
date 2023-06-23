@@ -30,17 +30,25 @@ def similarity_score(query, document):
     document_embedding = model.encode(document, convert_to_tensor=True)
     cosine_similarity = util.pytorch_cos_sim(query_embedding, document_embedding)
     return cosine_similarity
+
 def top_similarity_score(query, document_list):
-    # Calculate cosine similarity between query and document
+        # Calculate cosine similarity between query and document
     query_embedding = model.encode(query, convert_to_tensor=True)
     cosine_similarity_list = []
     for document in document_list:
         document_embedding = model.encode(document, convert_to_tensor=True)
         cosine_similarity = util.pytorch_cos_sim(query_embedding, document_embedding)
         cosine_similarity_list.append(cosine_similarity)
+    # Max similarity score 
+    max_similarity_score = max(cosine_similarity_list)
     # Get top 1 similarity score document
-    top_similarity_document = document_list[cosine_similarity_list.index(max(cosine_similarity_list))]
-    return top_similarity_document
+    top_similarity_document = document_list[cosine_similarity_list.index(max_similarity_score)]
+    result = {
+            "query": query,
+            "document": top_similarity_document,
+            "score": max_similarity_score
+        }
+    return result
 
 def similarity_score_list(query_list, document_list):
     # Batch queries and documents for similarity score calculation
@@ -58,40 +66,32 @@ def get_limit_score(cosine_similarity_list):
         else:
             limit_score_list.append(0)
     return limit_score_list
+def get_matching_documents(queries, document_list):
+    # Get Matching documents section by high probability
+    matching_list = []
+    results = []
+    query_count = len(queries)
+    print(query_count)
+    document_count = len(document_list)
+    document_pitch = 10
+    for index,query in enumerate(queries):
+        # Select documents section by high probability
+        if index / query_count * document_count - document_pitch < 0 :
+            low_limit = 0  
+            high_limit = int(index / query_count * document_count + document_pitch)
+        elif index / query_count * document_count - document_pitch > document_count :
+            low_limit = int(index / query_count * document_count - document_pitch)
+            high_limit = document_count  
+        else :
+            low_limit =  int(index / query_count * document_count - document_pitch)
+            high_limit = int(index / query_count * document_count + document_pitch)
+        print(low_limit, high_limit)
+        calc_document_list = document_list[low_limit:high_limit]
+        
+        result = top_similarity_score(query, calc_document_list)
  
-# print("Chinese model encoding by embedding ...\n")
-# corpus_embedding = model.encode(corpus, convert_to_tensor=True)
-# top_k = max(5, len(corpus))
-# # top_k = 1
-# results = []
-# print("Loop of queries ...")
-# for query in queries:
-#     query_embedding = model.encode(query, convert_to_tensor=True)
-
-#     cos_scores = util.cos_sim(query_embedding, corpus_embedding)[0]
-#     top_score, top_idx = torch.topk(cos_scores, k=top_k)
-
-#     # If score is less than LIMIT_SCORE, ignore the training data
-#     # if round(top_score.item(), 3) < limit_score:
-#     #     continue
-
-#     result = {
-#         "query": query,
-#         "score": round(top_score.item(), 3),
-#         "document": corpus[top_idx.item()]
-#     }
-#     print(result)
-#     print("\n\n")
-#     results.append(result)
-#     # for score, idx in zip(top_results[0], top_results[1]):
-#     #     print(f'{round(score.item(), 3)} | {corpus[idx]}')
-# # print(results)
-
-# print("Export to files ...")
-# print("Result count : ")
-# print(len(results))
-
-# with open(result_file_path, 'w', encoding="utf-8") as file:
-#     json.dump(results, file, ensure_ascii=False, indent=4)
-print(similarity_score("english","英语"))
+        matching_list.append(result)
+    return matching_list
+with open(result_file_path, 'w', encoding="utf-8") as file:
+    json.dump(get_matching_documents(queries,corpus), file, ensure_ascii=False, indent=4)
 print("Done!")
