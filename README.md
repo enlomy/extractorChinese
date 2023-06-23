@@ -10,6 +10,11 @@ pip install jieba
 pip install sentence_transformers 
 ...
 
+
+Open python console
+>>> import nltk
+>>> nltk.download('punkt')
+
 and set some env values
 
 
