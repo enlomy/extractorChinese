@@ -11,7 +11,6 @@ load_dotenv('.env')
 # Define file path
 file_path = os.environ['INPUT_EN_FILE_PATH']
 
-
 # Function to check if a sentence contains English words
 def is_english(sentence):
     words = nltk.word_tokenize(sentence)
@@ -32,6 +31,7 @@ def save_text_to_file(text, output_file_path):
 
 
 def get_sentences_segments(extracted_text):
+    # Replace PDF formarting symbols
     extracted_text = re.sub('[“”]', '"', extracted_text)
     # Segmentation of sentences
     sentences = extracted_text.split('\n\n')
@@ -48,7 +48,7 @@ def save_segments_to_file(english_sentences):
             sentence = sentence.replace('\n', ' ').replace('\r', '')
             file.write(sentence + "\n\n")
 
-    # Print the extracted result
+    # Print the extracted result to terminal
     print("Text extracted from PDF and saved to", output_file_path)
     print("Count Sentences", len(english_sentences))
 

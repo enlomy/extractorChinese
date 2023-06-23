@@ -26,7 +26,7 @@ with open(input_cn_file_path, "r", encoding='utf-8') as corpus_file:
 
 # print(corpus)
 
-
+###################################  Example data ###################################
 # Corpus with example sentences
 # corpus = [
 #     'I am a boy',
@@ -40,33 +40,35 @@ with open(input_cn_file_path, "r", encoding='utf-8') as corpus_file:
 
 # Query sentences:
 # queries = ['你能幫助我嗎？', '我是男孩子', '一個女人正在拉小提琴']
+#######################################################################################
+
 print("Chinese model encoding by embedding ...\n")
 corpus_embedding = model.encode(corpus, convert_to_tensor=True, batch_size= 64, show_progress_bar =True)
-# top_k = max(5, len(corpus))
-top_k = 1
 results = []
 print("Loop of queries ...")
 for query in queries:
+    # Encoding query model
     query_embedding = model.encode(query, convert_to_tensor=True)
 
+    # Calculate cosine similarity
     cos_scores = util.cos_sim(query_embedding, corpus_embedding)[0]
-    top_score, top_idx = torch.topk(cos_scores, k=top_k)
+
+    # Select top index from embedding model
+    top_score, top_idx = torch.topk(cos_scores, k=1)
 
     # If score is less than LIMIT_SCORE, ignore the training data
     if round(top_score.item(), 3) < limit_score:
         continue
-
+    # Result formating to JSON
     result = {
         "query": query,
         "score": round(top_score.item(), 3),
         "document": corpus[top_idx.item()]
     }
+    # Show the 
     print(result)
     print("\n\n")
     results.append(result)
-    # for score, idx in zip(top_results[0], top_results[1]):
-    #     print(f'{round(score.item(), 3)} | {corpus[idx]}')
-# print(results)
 
 print("Export to files ...")
 print("Result count : ")
