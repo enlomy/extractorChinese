@@ -1,0 +1,3852 @@
+[
+    {
+        "query": "3.1 We Care for our Customers",
+        "score": 0.93,
+        "document": "3.1 關心我們的客戶"
+    },
+    {
+        "query": "3.2 Customer Service and Feedback",
+        "score": 0.935,
+        "document": "3.2 客戶服務及反饋"
+    },
+    {
+        "query": "Service",
+        "score": 0.918,
+        "document": "服務"
+    },
+    {
+        "query": "3.4 Customer Data Privacy",
+        "score": 0.928,
+        "document": "3.4 客戶數據私隱"
+    },
+    {
+        "query": "3.5 Customer Information Security",
+        "score": 0.908,
+        "document": "3.5 客戶資料保安"
+    },
+    {
+        "query": "4. Caring for the Community",
+        "score": 0.967,
+        "document": "4. 關懷社區"
+    },
+    {
+        "query": "4.2 Nurturing the Next Generation",
+        "score": 0.857,
+        "document": "4.2 培育下一代"
+    },
+    {
+        "query": "4.3 Combating Climate Change and ",
+        "score": 0.874,
+        "document": "應對氣候變化"
+    },
+    {
+        "query": "4.4 Telecom Support",
+        "score": 0.854,
+        "document": "4.4 提供電訊支援"
+    },
+    {
+        "query": "CONTENTS",
+        "score": 0.847,
+        "document": "件"
+    },
+    {
+        "query": "About this Report",
+        "score": 0.947,
+        "document": "關於此報告"
+    },
+    {
+        "query": "1.1 Sustainability Governance Structure  ",
+        "score": 0.862,
+        "document": "1.1 可持續發展管治架構及監督責任"
+    },
+    {
+        "query": "and Oversight Responsibilities",
+        "score": 0.814,
+        "document": "恰當的管治和合規責任。"
+    },
+    {
+        "query": "  1.2 Enterprise Risk Management",
+        "score": 0.908,
+        "document": "  1.2 企業風險管理"
+    },
+    {
+        "query": "1.3 Sustainability Policies",
+        "score": 0.907,
+        "document": "1.3 可持續發展政策"
+    },
+    {
+        "query": "1.4 Business Ethics",
+        "score": 0.85,
+        "document": "1.4 商業道德"
+    },
+    {
+        "query": "2. Creating Shared Value",
+        "score": 0.862,
+        "document": "2. 創造共享價值"
+    },
+    {
+        "query": "2.2 Supporting Smart City Transformation",
+        "score": 0.868,
+        "document": "2.2 促進城市智慧化轉型"
+    },
+    {
+        "query": "2.3 Green Solution Offerings",
+        "score": 0.933,
+        "document": "2.3 綠色解決方案"
+    },
+    {
+        "query": "5.2 Diversity and Social Inclusion",
+        "score": 0.84,
+        "document": "多元化與包容性"
+    },
+    {
+        "query": "5.4 Occupational Safety and Health",
+        "score": 0.881,
+        "document": "5.4 職業安全與健康"
+    },
+    {
+        "query": "6.1 Progress to our Environmental Targets",
+        "score": 0.939,
+        "document": "6.1 環境目標進度"
+    },
+    {
+        "query": "6.2 Enhancing Energy Efficiency",
+        "score": 0.924,
+        "document": "6.2 提升能源效益"
+    },
+    {
+        "query": "6.3 Renewable Energy Adoption",
+        "score": 0.88,
+        "document": "6.3 使用可再生能源"
+    },
+    {
+        "query": "6.4 Waste Management",
+        "score": 0.948,
+        "document": "6.4 廢物管理"
+    },
+    {
+        "query": "6.5 Water Management",
+        "score": 0.958,
+        "document": "6.5 水資源管理"
+    },
+    {
+        "query": "6.6 Sustainable Finance",
+        "score": 0.887,
+        "document": "可持續發展金融"
+    },
+    {
+        "query": "7.2 Continuous Supplier Assessment",
+        "score": 0.863,
+        "document": "7.2 持續供應商評估"
+    },
+    {
+        "query": "7.3 Sustainable Procurement",
+        "score": 0.927,
+        "document": "7.3 可持續採購"
+    },
+    {
+        "query": "Led  by  our  Board,  we  have  championed  environmental,  social  and  governance  (\"ESG\")  as  guiding  principles  for  our  Corporate  strategy,  integrated  into  every  aspect  of  our  business.  Embracing  ESG  through  a  double materiality lens, we have prioritised issues that are both financially  material  to  our  company  and  important  to  our  internal  and  external  stakeholders.",
+        "score": 0.876,
+        "document": "在董事會的領導下，公司倡議將環境、社會及管治（「ESG」）作為企業 的策略指導原則，並將其融入業務的各個方面。透過雙重重要性審"
+    },
+    {
+        "query": "As a technology business, we have placed the utmost emphasis on customer  data  privacy  and  protection,  while  information  security  and  management  remained  imperative  at  every  level  of  our  organisation.  As  our  customers  put their trust in us, we recognised the protection of their information as  vital,  taking  Cybersecurity  readiness  very  seriously  to  meet  the  growing  challenges.",
+        "score": 0.852,
+        "document": "作為一家科技企業，我們高度重視客戶資料私隱及保障、而資料安"
+    },
+    {
+        "query": "For community as a whole, besides mobilising our resources to help the city staying connected during the pandemic so that  people  can  continue  to  work,  live,  learn  and  receive  medical  support,  we  have  also  been  devoted  to  the  promotion  of  5G  technology,  digital  payment  and  telemedicine  services  to  accelerate  Hong  Kong’s  transformation  into  a  smart  city.  More  importantly, amidst the pandemic, our long-term efforts to bridge the digital divide by providing tailored services to the elderlies  has become more meaningful, especially when various COVID-19 related digital applications, such as LeaveHomeSafe, are essential  in everyday life.",
+        "score": 0.806,
+        "document": "支援。我們同時亦致力於推廣5G技術、電子支付和遙距醫療服務，促進香港的智慧化轉型。疫情期間，尤其當安心 出行等各類與疫情相關的數碼產品成為日常生活所需時，我們為長者提供定制化服務，彌合數碼隔閡所作出的努力"
+    },
+    {
+        "query": "Forging ahead with purpose and a clear vision in the long term, we will not only continue to enhance our ESG performance  and  disclosures,  for  example,  by  adopting  international  standards  such  as  the  Global  Reporting  Initiative’s  (\"GRI\")  Universal  Standards, but also strive to leverage our expertise to create more shared value for our stakeholders and community. I thank all  our employees, management team and our Board for their full support as we pursue our ESG journey.",
+        "score": 0.922,
+        "document": "懷揣著明確的目標和願景，我們砥礪前行。我們採用全球報告倡議（「GRI」）通用標準等國際標準，將繼續提升ESG表 現及披露，並將利用我們的專長為持份者和社區創造更多共享價值。在此，本人衷心感謝所有員工、管理團隊及董"
+    },
+    {
+        "query": "This is the ESG report for the Company and its subsidiaries (collectively the \"Group\").",
+        "score": 0.931,
+        "document": "此報告為本公司及其附屬公司（統稱「集團」）的ESG報告。"
+    },
+    {
+        "query": "Reporting Period",
+        "score": 0.861,
+        "document": "報告期間"
+    },
+    {
+        "query": "This  report  covers  the  Group’s  ESG  accomplishments  and  challenges  from  1  January  to  31  December  2022,  as  well  as  our  ongoing initiatives to enhance our ESG performance.",
+        "score": 0.944,
+        "document": "此報告涵蓋集團從2022年1月1日至12月31日在ESG方面的成就和挑戰，以及為改善ESG表現而持續推行的措施。"
+    },
+    {
+        "query": "This report encompasses the Group’s core businesses based in Hong Kong, namely technology, media, and telecommunications,  operated through our key subsidiaries HKT and PCCW Media, including the operations of our offices, retail shops, data centres,  exchange sites, telecommunications sites, and transmissions, unless otherwise specified1,2. Where relevant, it also references the  activities of subsidiaries and outsourced operations.",
+        "score": 0.828,
+        "document": "此報告涵蓋集團於香港的核心業務，即科技、媒體及電訊，分別透過我們主要的附屬公司香港電訊和電訊盈科媒體"
+    },
+    {
+        "query": "The qualitative and quantitative information regarding the Group’s approach, initiatives, and priorities in managing material ESG  aspects are disclosed in the report.",
+        "score": 0.836,
+        "document": "此報告披露集團在管理ESG方面的重要議題所採納的方法、措施及優先次序的質量及量化資料。"
+    },
+    {
+        "query": "This report has been prepared in accordance with provisions of the Environmental, Social and Governance Reporting Guide (the  \"ESG Reporting Guide\") in Appendix 27 to the Rules Governing the Listing of Securities on The Stock Exchange of Hong Kong  Limited (\"HKEX\"). We have also prepared this report in accordance with GRI Universal Standards for the first year.",
+        "score": 0.923,
+        "document": "此報告按《香港聯合交易所有限公司（「聯交所」）證券上市規則》附錄二十七之《環境、社會及管治報告指引》（「ESG報 告指引」）的條文編製。我們編制本年度報告時亦首次按照了全球報告倡議組織（「GRI」）的通用準則。"
+    },
+    {
+        "query": "The report has followed the Reporting Principles as recommended by GRI and as set out in the HKEX ESG Reporting Guide to  define the report content and to ensure the quality of information presented, including:",
+        "score": 0.875,
+        "document": "此報告遵照GRI及聯交所ESG報告指引訂明的「匯報原則」界定報告的內容，以及確保本報告呈述的資料質素優良，包 括："
+    },
+    {
+        "query": "Quantitative",
+        "score": 0.81,
+        "document": "量化"
+    },
+    {
+        "query": "A cloud-based data management platform has been  deployed to collect our ESG metrics, keeping track of our  performance while assisting in target setting.",
+        "score": 0.889,
+        "document": "我們配置雲端數據管理平台，收集ESG指標，並跟進表 現及協助設定目標。"
+    },
+    {
+        "query": "Balance",
+        "score": 0.956,
+        "document": "平衡"
+    },
+    {
+        "query": "The content and data provided in the report are unbiased.  We have discussed both our achievements and room for  improvement in all ESG aspects.",
+        "score": 0.838,
+        "document": "此報告的內容及數據均無偏頗。我們就ESG各方面的成 果及改善空間進行討論。"
+    },
+    {
+        "query": "The  environmental  and  social  performance  data  in  the  report  have  been  independently  reviewed  and  verified  by  the  Hong  Kong Quality Assurance Agency (\"HKQAA\"). Please refer to the Verification Statement issued by HKQAA on page 58 for the  verification scope and conclusion.",
+        "score": 0.903,
+        "document": "香港品質保證局已就此報告所載的環境及社會表現數據進行獨立審閱及驗證。有關核實範圍及結論，請參閱第58 頁 的香港品質保證局發佈的核實報告。"
+    },
+    {
+        "query": "Contact Us",
+        "score": 0.866,
+        "document": "聯絡我們"
+    },
+    {
+        "query": "We value stakeholders’ views and suggestions. Please share your feedback on our sustainability management and reporting via  the following channels:",
+        "score": 0.819,
+        "document": "我們重視持份者的觀點及建議。如欲提出有關可持續發展管理和報告方面的意見，請透過以下途徑聯絡我們："
+    },
+    {
+        "query": "Sustainability Performance Highlights in 2022",
+        "score": 0.875,
+        "document": "2022年可持續發展表現"
+    },
+    {
+        "query": "Network Connectivity",
+        "score": 0.925,
+        "document": "網絡連接"
+    },
+    {
+        "query": "Customer Services",
+        "score": 0.929,
+        "document": "客戶服務"
+    },
+    {
+        "query": "Health and Well-being",
+        "score": 0.902,
+        "document": "健康與福祉"
+    },
+    {
+        "query": "1st network  provider that  offers full  5G coverage  along all MTR  lines",
+        "score": 0.806,
+        "document": "首家實現 港鐵綫5G  網絡全覆蓋 的網絡  供應商"
+    },
+    {
+        "query": "Diversity and Equality",
+        "score": 0.971,
+        "document": "多元化和平等"
+    },
+    {
+        "query": "Team Development",
+        "score": 0.802,
+        "document": "團隊發展"
+    },
+    {
+        "query": "466,769 total training hours",
+        "score": 0.91,
+        "document": "總培訓時數達到466,769小時"
+    },
+    {
+        "query": "Skills Hub launched as a virtual learning platform to  support continuous learning and development",
+        "score": 0.929,
+        "document": "推出Skills Hub以提供一個持續學習和發展的  虛擬學習平台"
+    },
+    {
+        "query": "Over 30%  of  senior  management  roles  held  by  female staff",
+        "score": 0.82,
+        "document": "高級管理層中，女性佔逾30%"
+    },
+    {
+        "query": "Piloted Collaborate & LEAD, a leadership learning  programme",
+        "score": 0.958,
+        "document": "試行領導力學習計劃Collaborate & LEAD"
+    },
+    {
+        "query": "Community Investment",
+        "score": 0.98,
+        "document": "社區投資"
+    },
+    {
+        "query": "Over HK$115 million monetary and in-kind contributions on support  programmes for the needy and event sponsorships to promote Hong Kong as an art  and cultural hub",
+        "score": 0.876,
+        "document": "提供逾1億1千5百萬港元的物資及捐款以幫助有需要人士及贊助活 動以鞏固香港作為藝術和文化中心的地位"
+    },
+    {
+        "query": "Green Development",
+        "score": 0.929,
+        "document": "綠色發展"
+    },
+    {
+        "query": "Environmental Performance (compared to 2021)",
+        "score": 0.941,
+        "document": "環境績效 （與2021年相比）"
+    },
+    {
+        "query": "33 GWh electricity consumption  reduced",
+        "score": 0.837,
+        "document": "減少16.7%的電力 消耗"
+    },
+    {
+        "query": "5.6% energy consumption  intensity reduced",
+        "score": 0.886,
+        "document": "能源消耗密度降低  5.6%"
+    },
+    {
+        "query": "11.8% GHG emissions  intensity reduced",
+        "score": 0.817,
+        "document": "溫室氣體排放密度降低 11.8%"
+    },
+    {
+        "query": "Supply Chain",
+        "score": 0.872,
+        "document": "供應鏈"
+    },
+    {
+        "query": "Sustainable Finance",
+        "score": 0.927,
+        "document": "可持續發展金融"
+    },
+    {
+        "query": "Over US$2 billion  sustainability-linked loans issued",
+        "score": 0.834,
+        "document": "籌集超過20億美元 的可持續發展表現  掛鈎貸款融資"
+    },
+    {
+        "query": "An overall rating  of A in the MSCI ESG  rating since 2019, ranking  in the top 64% of global  telecommunication  services peers5",
+        "score": 0.897,
+        "document": "自2019年起，在MSCI ESG評級中 獲得「A」級的整體評級，位列全球 電訊服務同業的前64% 5"
+    },
+    {
+        "query": "An overall rating  of AA in the MSCI ESG  rating since 2021, ranking  in the top 35% of global  telecommunication  services peers8",
+        "score": 0.882,
+        "document": "自2021年起，在MSCI ESG評級中 獲得「AA」級的整體評級，位列 全球電訊服務同業的前35% 8"
+    },
+    {
+        "query": "Merit Award  (Large Organisation Category)  of the Hong Kong Sustainability  Award 2022",
+        "score": 0.91,
+        "document": "香港可持續發展獎2022 （大機構組別）傑出獎"
+    },
+    {
+        "query": "Gold Award (Media and  Communication Category) of the 2021  Hong Kong Awards for Environmental  Excellence",
+        "score": 0.837,
+        "document": "2021香港環境卓越大獎金獎 （媒體及通訊業界別）"
+    },
+    {
+        "query": "Recognised as Hong Kong  Green Organisation",
+        "score": 0.922,
+        "document": "被評為香港綠色機構"
+    },
+    {
+        "query": "PCCW Environmental, Social and Governance Report 2022\f1.  SUSTAINABILITY  ",
+        "score": 0.803,
+        "document": "可持續發展委員會"
+    },
+    {
+        "query": "Sustainability Governance and  Communication",
+        "score": 0.883,
+        "document": "可持續發展的管治及溝通"
+    },
+    {
+        "query": "Manage Sustainability-Related Risks",
+        "score": 0.91,
+        "document": "管理與可持續性相關的風險"
+    },
+    {
+        "query": "and oversight responsibility",
+        "score": 0.833,
+        "document": "審查職責。"
+    },
+    {
+        "query": "•  Diversified communication channels ",
+        "score": 0.811,
+        "document": "溝通渠道"
+    },
+    {
+        "query": "PCCW Environmental, Social and Governance Report 2022\f1.1 Sustainability Governance Structure and Oversight Responsibilities",
+        "score": 0.837,
+        "document": "1.1 可持續發展管治架構及監督責任"
+    },
+    {
+        "query": "The Board",
+        "score": 0.814,
+        "document": "董事會"
+    },
+    {
+        "query": "•  Oversees sustainability strategy and acts as final decision-making body",
+        "score": 0.922,
+        "document": "•  監督可持續發展策略的最終決策機構"
+    },
+    {
+        "query": "Highest Governance  Body",
+        "score": 0.823,
+        "document": "最高管治機構"
+    },
+    {
+        "query": "•  Keeps the Group’s risk management and internal control systems sound and effective to ",
+        "score": 0.813,
+        "document": "•  維持健全有效的集團風險管理及內部監控系統以確保遵守適用的法律法規"
+    },
+    {
+        "query": "•  Approves Corporate Social Responsibility (\"CSR\") Policy and Corporate Responsibility ",
+        "score": 0.807,
+        "document": "•  審批企業社會責任政策及企業責任政策"
+    },
+    {
+        "query": "•  Reviews and approves the ESG Report",
+        "score": 0.882,
+        "document": "•  協助ESG報告和調查"
+    },
+    {
+        "query": "Executive Committee",
+        "score": 0.87,
+        "document": "董事委員會"
+    },
+    {
+        "query": "Audit Committee",
+        "score": 0.838,
+        "document": "審核委員會"
+    },
+    {
+        "query": "•  Operates as a general management ",
+        "score": 0.821,
+        "document": "管理方法"
+    },
+    {
+        "query": "committee under the overall delegation  of authority from the Board",
+        "score": 0.819,
+        "document": "•  以一般管理委員會的身份獲董事會全"
+    },
+    {
+        "query": "Board Committees",
+        "score": 0.847,
+        "document": "董事會"
+    },
+    {
+        "query": "objectivity and integrity of financial  reporting, and those directors have  presented results to shareholders  with care, diligence, and competence  required by law",
+        "score": 0.843,
+        "document": "•  協助董事會確保財務報告的客觀性及 可信性，而向股東公佈業績時，確保"
+    },
+    {
+        "query": "the Group’s annual and interim reports,  from time to time",
+        "score": 0.806,
+        "document": "•  不定期審查集團年報及中期報告的編"
+    },
+    {
+        "query": "•  Assists the Board and/or the Audit  Committee in the review of the  effectiveness of the Group’s risk  management and internal control  systems on an ongoing basis",
+        "score": 0.873,
+        "document": "•  協助董事會及╱或審核委員會持續審 查集團風險管理及內部監控系統的有"
+    },
+    {
+        "query": "Sustainability Committee",
+        "score": 0.926,
+        "document": "可持續發展委員會"
+    },
+    {
+        "query": "•  Reviews the Group’s sustainability  strategy, principles, and policies to  ensure that the Group operates in  a manner that enhances its positive  contribution to the society and the  environment",
+        "score": 0.904,
+        "document": "•  檢討集團的可持續發展策略、原則及 政策，以確保集團向社會及環境作出"
+    },
+    {
+        "query": "direction for sustainability practices and  procedures",
+        "score": 0.87,
+        "document": "•  監督可持續發展實踐和程序，並提供"
+    },
+    {
+        "query": "•  Monitors the progress on sustainability- related initiatives and its relevant goals  and targets",
+        "score": 0.912,
+        "document": "•  監測可持續發展相關舉措、目標及指"
+    },
+    {
+        "query": "•  Reviews the ESG Report",
+        "score": 0.92,
+        "document": "•  協助ESG報告和調查"
+    },
+    {
+        "query": "Environmental   Advisory Group",
+        "score": 0.902,
+        "document": "環境諮詢小組"
+    },
+    {
+        "query": "•  Establish collaboration ",
+        "score": 0.857,
+        "document": "位建立協作關係"
+    },
+    {
+        "query": "Sustainability Drivers",
+        "score": 0.812,
+        "document": "可持續性  驅動因素"
+    },
+    {
+        "query": "stakeholders to promote  sustainability internally  and externally",
+        "score": 0.845,
+        "document": "•  與持份者內外合作， 推進可持續發展"
+    },
+    {
+        "query": "•  Organises and  implements  sustainability initiatives",
+        "score": 0.931,
+        "document": "•  組織和推行可持續發"
+    },
+    {
+        "query": "•  Prepares the ESG Report",
+        "score": 0.932,
+        "document": "•  協助ESG報告和調查"
+    },
+    {
+        "query": "environmental policies  and targets and  provides suggestions  to the Sustainability  Committee",
+        "score": 0.853,
+        "document": "•  檢討集團的可持續發展策略、原則及 政策，以確保集團向社會及環境作出"
+    },
+    {
+        "query": "implementation of  sustainability initiatives",
+        "score": 0.892,
+        "document": "•  協助推行可持續發展"
+    },
+    {
+        "query": "•  Raise sustainability ",
+        "score": 0.885,
+        "document": "•  協助推行可持續發展"
+    },
+    {
+        "query": "•  Assist in ESG reporting  and ESG-related surveys",
+        "score": 0.9,
+        "document": "•  協助ESG報告和調查"
+    },
+    {
+        "query": "Implementation/ Execution of  Sustainability  Strategies and  Actions",
+        "score": 0.911,
+        "document": "可持續性策略和行動"
+    },
+    {
+        "query": "Implement sustainability initiatives and ensure their compliance in daily operations",
+        "score": 0.876,
+        "document": "•  實施可持續發展措施，並確保日常營運均符合法規"
+    },
+    {
+        "query": "The \"CSR Committee\" was renamed to the \"Sustainability Committee\" on 24 February 2023.",
+        "score": 0.854,
+        "document": "「企業社會責任委員會」於2023年2月24日更名為「可持續發展委員會」"
+    },
+    {
+        "query": "Board of Directors",
+        "score": 0.831,
+        "document": "董事會"
+    },
+    {
+        "query": "Audit Committee",
+        "score": 0.838,
+        "document": "審核委員會"
+    },
+    {
+        "query": "l",
+        "score": 0.841,
+        "document": "件"
+    },
+    {
+        "query": "nd",
+        "score": 0.886,
+        "document": "者"
+    },
+    {
+        "query": " Line of Defence 2 Group Risk Management & Compliance",
+        "score": 0.818,
+        "document": "第二道防線 集團風險管理及合規處 （控制風險）"
+    },
+    {
+        "query": "Sustainability Risks and Climate Change In recent decades, climate change has posed physical climate risks to the global community through more frequent extreme  weather events. Consequently, more stringent policy requirements towards decarbonisation are expected to drive the adoption  of low-carbon technology, exposing our business operations to transition climate risks. The Group has been enhancing its climate  resilience through technological innovations and implementing control measures to mitigate these climate risks to enable the  continuity of Group’s business operations. ",
+        "score": 0.87,
+        "document": "近數十年來，通過越趨頻繁的極端天氣事件，氣候變化為全球社區帶來了實體風險，導致更嚴格的減碳政策要求，"
+    },
+    {
+        "query": "PCCW Environmental, Social and Governance Report 2022  \fListed below are our responses on various sustainability initiatives we have implemented to raise awareness and combat climate  change:",
+        "score": 0.819,
+        "document": "電訊盈科環境、社會及管治報告2022\f下面列出了我們為回應提高氣候風險意識和抵禦氣候變化而實施的各種可持續發展舉措："
+    },
+    {
+        "query": "Responding to Climate Change",
+        "score": 0.905,
+        "document": "應對氣候變化"
+    },
+    {
+        "query": "Nature of Risk",
+        "score": 0.95,
+        "document": "風險性質"
+    },
+    {
+        "query": "Impact",
+        "score": 0.863,
+        "document": "影響"
+    },
+    {
+        "query": "Our Response",
+        "score": 0.94,
+        "document": "我們的回應："
+    },
+    {
+        "query": "Risks that are driven by  extreme weather events,  such as typhoons, heavy  rainfall, and floods.",
+        "score": 0.942,
+        "document": "急性實體風險 由颱風、強雨和洪水等 極端天氣事件引發的風 險。"
+    },
+    {
+        "query": "Increased frequency and  severity of extreme weather  events may lead to disruption  of network operations and  telecommunication service.",
+        "score": 0.928,
+        "document": "極端天氣事件的頻繁和加劇 可能導致網絡營運和電訊服 務中斷。"
+    },
+    {
+        "query": "We have installed IoT sensors in  flooding alarm system which help us  to monitor the water level in various  locations and allow timely response for  remedial actions. Besides, emergency  plan or contingency plans are in place  to provide guidance on severe weather  conditions.",
+        "score": 0.849,
+        "document": "我們通過在洪水警報系統中安裝物 聯網感應器來監測各個地點的水位 情況，以便能及時應對並採取補救 措施。此外，我們亦制定了應急計 劃╱事故應變計劃，讓我們可以在 惡劣天氣條件下提供適當的指引。"
+    },
+    {
+        "query": "Risks associated with  longer-term shifts in  climate patterns, such  as sustained high  temperature, change in  precipitation patterns.",
+        "score": 0.871,
+        "document": "慢性實體風險 由長期氣候變化所帶 來的轉變風險，例如 持續高溫、降雨模式 變化。"
+    },
+    {
+        "query": "Policy actions that  attempt to constrain  actions that contribute  to the adverse effects of  climate change.",
+        "score": 0.886,
+        "document": "政策和法律風險 嘗試採取政策以限制 導致氣候變化不利影 響的行為。"
+    },
+    {
+        "query": "Long-term shifts in climate  patterns have potential  impact on our infrastructure  and facilities, which may lead  to disruption of our services  provision and business  continuity.",
+        "score": 0.877,
+        "document": "氣候模式中較長期的轉變會 對我們的基礎設施和設備產 生潛在的影響，這可能導致 我們的電訊服務供應和業務 中斷的風險。 "
+    },
+    {
+        "query": "Our technical team will closely  monitor the network equipment  functionality and ensure that  the cooling equipment is in  good condition especially when  temperature increases.",
+        "score": 0.899,
+        "document": "我們的技術團隊將密切監控網絡設 備的功能，並確保冷卻設備尤其在 溫度升高時仍然處於良好狀態。"
+    },
+    {
+        "query": "Risk associated with  technologies used in the  transition to a lower- carbon economy.",
+        "score": 0.939,
+        "document": "技術風險 低碳經濟轉型中使用 相關技術的風險。"
+    },
+    {
+        "query": "The use of low-carbon  technologies may increase  the Group’s operating cost.",
+        "score": 0.902,
+        "document": "低碳技術的應用可能增加集 團的營運成本。"
+    },
+    {
+        "query": "Risk of changing  customer and/or public  perceptions of our  contributions to a lower- carbon economy.",
+        "score": 0.859,
+        "document": "聲譽風險 客戶和╱或公眾對我 們的低碳經濟貢獻觀 感之改變所帶來的風 險"
+    },
+    {
+        "query": "The Group’s reputation may  be adversely affected if it  cannot meet customers and/ or public expectations.",
+        "score": 0.918,
+        "document": "倘若無法滿足客戶和╱或公 眾的期望，集團的聲譽或將 受到負面影響。"
+    },
+    {
+        "query": "The Group supports Hong Kong’s  Climate Action Plan 2050 with  various climate initiatives and  measures implemented. We will  keep abreast of the latest regulatory  development to ensure compliance  with the applicable laws and  regulations in the jurisdictions in  which we operate.",
+        "score": 0.909,
+        "document": "集團實施了多項氣候倡議和措施， 以支持香港政府提出的《香港氣候行 動藍圖2050 》。我們將密切關注氣 候政策的最新發展，以確保我們遵 守營運所在司法管轄區的環境法律 和法規。"
+    },
+    {
+        "query": "We have adopted digital solutions  and smart technologies to enhance  the energy efficiency and resources  conservation in our building and  facility management. The Group  has taken proactive steps to adopt  renewable energy and promote the  use of electric vehicles (\"EVs\").",
+        "score": 0.848,
+        "document": "我們採用數碼化解決方案和智能技 術，以提高我們建築物和設施管理 的能源效率及節約資源。集團積極 採用可再生能源及推廣電動車使用。"
+    },
+    {
+        "query": "As a conglomerate with global  footprint, our success depends on the  trust of our customers, stakeholders,  and the public at large. The Group  has been actively engaging with  our stakeholders to understand  their expectations and strive to  enhance our ESG performance and  disclosures.",
+        "score": 0.836,
+        "document": "作 為 一 家 業 務 遍 及 全 球 的 企 業 集 團，我們的成功取決於客戶、持份 者和廣大公眾的信任。集團一直積 極與持份者溝通，以了解他們的期 望，並努力改善我們在ESG 表現及 披露。"
+    },
+    {
+        "query": "PCCW Environmental, Social and Governance Report 2022\f1.3 Sustainability Policies",
+        "score": 0.802,
+        "document": "1.3 可持續發展政策"
+    },
+    {
+        "query": "The Group is committed to observing high standard of governance and integrity in all aspects of our business. We review the  Group policies regularly to ensure that we adhere to the latest applicable laws and regulations. All employees are expected to  strictly comply with Group’s policies and procedures when acting on behalf of the Group, whether dealings with customers,   third parties, regulators, authorities, or the general public.",
+        "score": 0.859,
+        "document": "集團致力在我們業務營運上遵循高誠信和管治標準，並定期審查集團政策，以確保我們遵循最新的適用法律和法"
+    },
+    {
+        "query": "Aspects",
+        "score": 0.879,
+        "document": "方面"
+    },
+    {
+        "query": "Customer and  Marketplace",
+        "score": 0.926,
+        "document": "客戶及市場"
+    },
+    {
+        "query": "•  Anti-Bribery and Corruption Policy •  Anti-Money Laundering and Counter-Terrorist Financing Policy •  Corporate Incident Response Plan • ",
+        "score": 0.889,
+        "document": "•  反賄賂及貪污政策 •  打擊洗黑錢及恐怖分子資金籌集政策 •  企業事故應變計劃 •  資訊科技保安政策"
+    },
+    {
+        "query": "•  Fraud and Security Incident Management Policy •  •  Personal Data Privacy Policy •  Privacy Statement •  Sensitive Information Monitoring Policy",
+        "score": 0.914,
+        "document": "•  欺詐及保安事故處理政策 •  知識產權權利政策 •  個人資料私隱政策 •  私隱聲明 •  敏感資料監察政策"
+    },
+    {
+        "query": "•  Employee Handbook •  Human Resources Policy Manual •  Occupational Safety and Health Policy",
+        "score": 0.849,
+        "document": "•  僱員手冊 •  人力資源政策手冊 •  職業安全及健康政策"
+    },
+    {
+        "query": "Environment",
+        "score": 0.972,
+        "document": "環境"
+    },
+    {
+        "query": "•  Energy and Water Management Policy and Guidelines •  Gas Emission Reduction Policy •  Waste Treatment Policy",
+        "score": 0.973,
+        "document": "•  能源及水資源管理政策和指引 •  減少氣體排放政策 •  廢物處理政策"
+    },
+    {
+        "query": "Supply Chain  Management",
+        "score": 0.895,
+        "document": "供應鏈管理"
+    },
+    {
+        "query": "•  Group Purchasing Policy and Principles •  Supplier Code of Conduct",
+        "score": 0.896,
+        "document": "•  集團採購政策和原則 •  供應商守則"
+    },
+    {
+        "query": "We recognise the value in building trust with our global business partners and stakeholders through transparency. The Group  places  great  importance  on  conducting  business  ethically  with  an  effective  framework  of  corporate  governance  in  place.  As  a responsible business operator, we strictly adhere to the Group’s ethical standards and comply  with all applicable laws  and  regulations  in  different  jurisdictions  in  which  we  operate.  Guided  by  the  comprehensive  scope  of  the  Group  policies  and  procedures, all Group members, including directors, officers, and employees, must adhere to a set of behaviour standards that  goes beyond the local statutory requirements.",
+        "score": 0.817,
+        "document": "我們通過高透明度的方式與全球業務夥伴及持份者之間建立互信。集團透過有效的企業管治框架以體現我們在開展"
+    },
+    {
+        "query": "Anti-bribery and Corruption",
+        "score": 0.936,
+        "document": "反貪污"
+    },
+    {
+        "query": "The  Board  has  zero  tolerance  towards  any  form  of  bribery  and  corruption  at  any  level  in  association  with  any  aspect  of the Group’s activities. Our Anti-Bribery and  Corruption  (\"ABC\")  Policy provides principles for  all directors,  officers,  employees, and external parties acting in any capacity on behalf of the Group to conduct business with integrity and  honesty and to reduce the risk of corruption. Furthermore, an ABC Procedure Manual (\"Procedure Manual\") has been  developed to provide detailed guidance on mitigating potential bribery and corruption risks in conjunction with the ABC  Policy while maintaining the highest possible ethical standards and vigorously enforcing its business practices, whenever  it operates throughout the world. In case of any doubt as to whether any misbehaviour or unusual business transaction  could lead to bribery and corrupt practices, employees are urged to refer to the Procedure Manual. The Procedure Manual  is proportionate to and focused on the risks that we face, including those arising from its associated parties. In addition,  offering or promising to give or accept any gift or hospitality to reward or retain a business, or recognise any bribery or  corruption in any business dealings that involve the Group, government officials, our customers, suppliers, or employees  are  strictly  prohibited.  As  a  technology  conglomerate  with  a  footprint  worldwide,  we  strictly  adhere  to  global  anti- corruption laws such as the United Kingdom Bribery Act 2010, which is internationally recognised as one of the highest  ABC standards and forms the basis of our Policy and Procedure Manual.",
+        "score": 0.806,
+        "document": "董事會對與集團相關的任何形式及層面的賄賂和貪污行為採取零容忍態度。我們的反賄賂及貪污政策為所有"
+    },
+    {
+        "query": "Data Privacy",
+        "score": 0.899,
+        "document": "資料私隱"
+    },
+    {
+        "query": "We have strict internal policies, procedures, and compliance guidelines in governing how we collect, use and manage  customer information. These policies and guidelines have clearly defined roles and responsibilities of handling personal  data, and stipulate appropriate security measures to achieve confidentiality, integrity, and accountability.",
+        "score": 0.827,
+        "document": "我們制定了嚴格的內部政策、程序及合規指引，以規管集團收集、使用及管理客戶資料的方式。該等政策及"
+    },
+    {
+        "query": "Information Security",
+        "score": 0.874,
+        "document": "資料保安"
+    },
+    {
+        "query": "We adhere to the highest standards of cybersecurity practices in efforts to protect our customer privacy and our business  data. Our information security policies and guidelines are referenced to industrial best practice including ISO 27001. The  Group periodically reviews such guidelines to ensure its effectiveness.",
+        "score": 0.867,
+        "document": "集團遵循最高的網絡安全標準，並致力保護我們的客戶私隱和業務數據。我們參考了包括ISO  27001在內的準 則制定了相關的資料保安政策及指引，並會定期審查相關指引，以確保其有效性。"
+    },
+    {
+        "query": "At the department level, some of our FUs and BUs have attained ISO 27001 certification, demonstrating our efforts in  security management and our full commitment to data and information security. In order to ensure that we adhere to  the latest legal and regulatory requirements, we have established stringent internal policies that formalise and align these  requirements into our day-to-day operations.",
+        "score": 0.873,
+        "document": "在部門層面，集團旗下多個職能單位和業務單位已取得ISO  27001認證，體現了我們在安全管理方面的努力以 及我們對數據和資料安全的充分承諾。為了確保我們遵守最新的法律和法規要求，我們已將相關法例要求整"
+    },
+    {
+        "query": "In 2022, we have neither concluded legal cases concerning non-compliance with the Prevention of Bribery Ordinance (Cap.  201) and other applicable laws and regulations related to corruption, nor any legal cases concerned with corrupt practices  brought against the Group or its employees.",
+        "score": 0.879,
+        "document": "2022年，我們無發生違反《防止賄賂條例》（第201 章）及其他適用法律及法規的法律貪污事件，集團或其僱員 亦無牽涉因貪污行為而裁定的訴訟案。"
+    },
+    {
+        "query": "Identify the  stakeholders from  both internal and  external parties",
+        "score": 0.803,
+        "document": "識別內部及外界 各方的持份者"
+    },
+    {
+        "query": "Communicate and  respond to the results",
+        "score": 0.887,
+        "document": "溝通並回應結果"
+    },
+    {
+        "query": "Communication Channels",
+        "score": 0.83,
+        "document": "溝通渠道"
+    },
+    {
+        "query": "Management and employees •  Face-to-face meetings •  Let’s Chat sessions •  Forums •  Town hall style gatherings •  Employee satisfaction survey •  Intranet •  Social media •  Online surveys",
+        "score": 0.91,
+        "document": "管理層及員工 •  面談 •  Let's Chat會議 •  論壇 •  員工溝通大會 •  員工滿意度調查 •  內聯網 •  社交媒體 •  網上問卷調查"
+    },
+    {
+        "query": "Shareholders, investors, and analysts •  Meetings •  Annual general meetings •  Annual, interim and",
+        "score": 0.84,
+        "document": "股東、投資者及分析師 •  會議 •  股東週年大會 •  年報、中期報告及ESG報告 •  通函及新聞稿 •  分析師簡報 •  聯交所網站"
+    },
+    {
+        "query": "ESG reports",
+        "score": 0.848,
+        "document": "•  協助ESG報告和調查"
+    },
+    {
+        "query": "Community and media •  Campaigns •  Seminars •  Website and social media •  Press releases and conferences •  Media enquiries •  Online surveys",
+        "score": 0.94,
+        "document": "社區及媒體 •  宣傳活動 •  研討會 •  網站及社交媒體 •  新聞稿及記者會 •  傳媒查詢 •  網上問卷調查"
+    },
+    {
+        "query": "Our  Communication Channels",
+        "score": 0.867,
+        "document": "溝通渠道"
+    },
+    {
+        "query": "Suppliers and business partners •  Supplier review and assessment ",
+        "score": 0.831,
+        "document": "供應商及 承辦商"
+    },
+    {
+        "query": "Customers •  Service hotlines •  Website and social media •  Live webchat •  My HKT portal •  Customer satisfaction survey and ",
+        "score": 0.892,
+        "document": "客户 •  服務熱線 •  網站及社交媒體 •  在線客服 •  My HKT平台 •  客戶滿意度調查及交易調查 •  淨推薦分數調查 •  網上問卷調查"
+    },
+    {
+        "query": "Government and regulators •  General liaison",
+        "score": 0.87,
+        "document": "政府及監管機構 •  一般聯絡"
+    },
+    {
+        "query": "We have identified the key material topics shown on the list on page 22. The top three key material topics this year are \"Customer  data privacy and protection\", \"Information security and management\" and \"Anti-corruption\" respectively while other material  topics remain relevant and significant to our stakeholders and businesses in 2022.",
+        "score": 0.812,
+        "document": "我們在第  22  頁詳列了對集團而言較重要的議題。今年排名前三的重要議題分別為「客戶資料私隱及保障」、「資料保 安及管理」和「反貪污」。而其他重要議題仍然對持份者及我們2022年的業務仍具重要性。"
+    },
+    {
+        "query": "i",
+        "score": 0.919,
+        "document": ""
+    },
+    {
+        "query": "I",
+        "score": 0.807,
+        "document": "祉"
+    },
+    {
+        "query": "Low",
+        "score": 0.939,
+        "document": "低"
+    },
+    {
+        "query": "High",
+        "score": 0.867,
+        "document": "高"
+    },
+    {
+        "query": "Employees",
+        "score": 0.936,
+        "document": "員工"
+    },
+    {
+        "query": "Community ",
+        "score": 0.96,
+        "document": "社區"
+    },
+    {
+        "query": "Supplier and ",
+        "score": 0.833,
+        "document": "供應商及 承辦商"
+    },
+    {
+        "query": "Clients",
+        "score": 0.826,
+        "document": "客戶服務"
+    },
+    {
+        "query": "Boundaries and Impacts*",
+        "score": 0.862,
+        "document": "邊界和影響*"
+    },
+    {
+        "query": "and communication",
+        "score": 0.917,
+        "document": "溝通渠道"
+    },
+    {
+        "query": "Customer health and ",
+        "score": 0.843,
+        "document": "客戶健康與安全"
+    },
+    {
+        "query": "Reliable services and ",
+        "score": 0.906,
+        "document": "可靠的服務及產品"
+    },
+    {
+        "query": "Customer service and ",
+        "score": 0.92,
+        "document": "客戶服務"
+    },
+    {
+        "query": "Customer data privacy ",
+        "score": 0.911,
+        "document": "客戶資料私隱及保障"
+    },
+    {
+        "query": "Information security ",
+        "score": 0.87,
+        "document": "資料保安"
+    },
+    {
+        "query": "and management",
+        "score": 0.912,
+        "document": "管理方法"
+    },
+    {
+        "query": "Innovation",
+        "score": 0.974,
+        "document": "創新"
+    },
+    {
+        "query": "Community investment",
+        "score": 0.98,
+        "document": "社區投資"
+    },
+    {
+        "query": "Promote innovative ",
+        "score": 0.877,
+        "document": "創新"
+    },
+    {
+        "query": "Diversity and inclusion",
+        "score": 0.898,
+        "document": "多元化與包容性"
+    },
+    {
+        "query": "Occupational safety ",
+        "score": 0.812,
+        "document": "有關提供安全工作環境及保障僱員避免職業性危害的："
+    },
+    {
+        "query": "and health",
+        "score": 0.904,
+        "document": "健康與福祉"
+    },
+    {
+        "query": "Human rights",
+        "score": 0.97,
+        "document": "人權"
+    },
+    {
+        "query": "Energy efficiency",
+        "score": 0.904,
+        "document": "能源效益"
+    },
+    {
+        "query": "GHG emissions",
+        "score": 0.806,
+        "document": "溫室氣體排放"
+    },
+    {
+        "query": "Waste management",
+        "score": 0.945,
+        "document": "廢物管理"
+    },
+    {
+        "query": "Climate change",
+        "score": 0.989,
+        "document": "氣候變化"
+    },
+    {
+        "query": "Green information ",
+        "score": 0.858,
+        "document": "綠色發展"
+    },
+    {
+        "query": "and communications ",
+        "score": 0.904,
+        "document": "溝通渠道"
+    },
+    {
+        "query": "Supply chain ",
+        "score": 0.871,
+        "document": "供應鏈"
+    },
+    {
+        "query": "management",
+        "score": 0.936,
+        "document": "管理方法"
+    },
+    {
+        "query": "Sustainable ",
+        "score": 0.833,
+        "document": "可持續性  驅動因素"
+    },
+    {
+        "query": "and risk management",
+        "score": 0.82,
+        "document": "  1.2 企業風險管理"
+    },
+    {
+        "query": "Competitive behaviour",
+        "score": 0.922,
+        "document": "競爭行為"
+    },
+    {
+        "query": "Financially Material Topics and their Impacts",
+        "score": 0.844,
+        "document": "財務重要議題及其影響"
+    },
+    {
+        "query": "Customer Data Privacy  and Protection",
+        "score": 0.922,
+        "document": "客戶資料私隱及保障"
+    },
+    {
+        "query": "Information Security  and Management",
+        "score": 0.866,
+        "document": "資料保安及管理"
+    },
+    {
+        "query": "Energy Efficiency",
+        "score": 0.895,
+        "document": "能源效益"
+    },
+    {
+        "query": "Reviews management system, energy  consumption targets and upgrade  equipment/facilities to improve  energy efficiency and reduce energy  consumption",
+        "score": 0.831,
+        "document": "檢討管理制度、能源消耗目標及"
+    },
+    {
+        "query": "Financial Impact Loss in revenue and/or market share,  legal costs, etc",
+        "score": 0.848,
+        "document": "收入和╱或市場佔有率損失、法"
+    },
+    {
+        "query": "Financial Impact Energy costs, investments in energy  efficient technologies/upgrades (e.g.  power metres with IoT solutions)",
+        "score": 0.815,
+        "document": "能源成本、節能技術投資╱升級"
+    },
+    {
+        "query": "Environment Electricity and Power Consumption",
+        "score": 0.907,
+        "document": "環境 電力與能源消耗"
+    },
+    {
+        "query": "Our response:",
+        "score": 0.978,
+        "document": "我們的回應："
+    },
+    {
+        "query": "The Group has set several environmental targets for 2025 and  conducts series of annual review to evaluate our performance  against  those  targets.  To  reduce  our  electricity  and  power  consumption, we have been exploring different energy saving  options internally and externally. In 2022, we have reduced the  air conditioner usage at our data centres while switching off  our 2G wireless network. While within our office premises, we  have  installed  automatic  sensors  for  lighting  and  dismantled  additional fluorescent tubes in buildings to reduce power and  electricity consumption.",
+        "score": 0.831,
+        "document": "集團制定了至2025年需達成的若干環境目標，並進行年 度檢討，以評估目標達成情況。為減少我們的能源和電"
+    },
+    {
+        "query": "For more details, please refer to the \"Enhancing the Group’s  Environmental Resilience and Agility\" chapter of this report.",
+        "score": 0.803,
+        "document": "有關詳情請查閱本報告的「提高集團的環境適應性和靈活"
+    },
+    {
+        "query": "Our response: ",
+        "score": 0.978,
+        "document": "我們的回應："
+    },
+    {
+        "query": "Governance Communications on Sustainability Strategy",
+        "score": 0.84,
+        "document": "可持續發展的管治及溝通"
+    },
+    {
+        "query": "Our response: ",
+        "score": 0.978,
+        "document": "我們的回應："
+    },
+    {
+        "query": "The  Board,  our  highest  governing  body,  is  responsible  for  the  supervision  of  the  Group’s  sustainability  strategy.  The  Sustainability Committee takes on the responsibility to monitor  and  report  the  implementation  of  sustainability-related  policies and procedures across the Group, while assisting top  management’s  decision-making  and  providing  guidance  to  the  working  groups/teams  to  implement  best  sustainability  practices  and  initiatives  in  our  day-to-day  operations.  Our  respective  board  level  committees  meet  regularly  to  review  the Group’s performance, which accurately reflect the needs  and concerns of our stakeholders. We also communicate our  sustainability  strategy  with  external  stakeholders  through  ongoing stakeholder engagement.",
+        "score": 0.841,
+        "document": "價值。相應的董事會委員會、小組委員會和各個可持續發展負責人被授權承擔相關可持續發展議程的管理、執行及"
+    },
+    {
+        "query": "Creating shared value is at the core of the Group’s purpose and sustainability strategy. Leveraging  our expertise and strengths to address the societal needs, we have created long-term value for  both our businesses and supported the sustainable development of the communities we serve.",
+        "score": 0.952,
+        "document": "創造共享價值是集團的營運宗旨和可持續發展策略的核心。我們利用自身的專業知識和優勢來滿足社會 需求，為我們的業務創造長遠價值，並幫助我們所服務的社區實現可持續發展。"
+    },
+    {
+        "query": "Transform More Businesses to  Sustainability",
+        "score": 0.894,
+        "document": "為更多業務實現可持續發展"
+    },
+    {
+        "query": "•  Created sustainable low-carbon lifestyle ",
+        "score": 0.938,
+        "document": "•\t讓可持續的低碳生活方式變得觸手可及和令人"
+    },
+    {
+        "query": "the new 5G era",
+        "score": 0.803,
+        "document": "5G 滲透率"
+    },
+    {
+        "query": "The 17 United Nations Sustainable Development Goals (\"UNSDGs\") form a comprehensive set of objectives and targets ",
+        "score": 0.867,
+        "document": "聯合國可持續發展目標12:"
+    },
+    {
+        "query": "for everyone to identify their part in sustainability. We have identified our contributions and relevance to the specific ",
+        "score": 0.802,
+        "document": "•  協助推行可持續發展"
+    },
+    {
+        "query": "Connect the City with 5G 5G, with its ultra-high speed, low latency and ability to conduct massive scale of machine type communications, can empower  a  wide  range  of  applications  and  innovations  and  benefit  people  and  businesses  such  as  start-ups,  small  and  medium- sized  enterprises  (\"SMEs\")  in  innovative  ways  unprecedentedly.  It  also  contributes  to  the  enhancement  of  cross-border  communications, while attracting overseas businesses and investments making use of such seamless network. 5G has become  crucial for the sustainable development of our community.",
+        "score": 0.943,
+        "document": "用5G連接城市 5G，由於具有超高速、低延遲和進行大規模通訊的能力，可以廣泛應用和提升創新能力，並以創新及前所未見的方 式造福人們和企業如初創企業及中小型企業等。它亦能帶動跨領域的通訊，吸引利用這種無縫的網絡的海外業務及"
+    },
+    {
+        "query": "The Group continues to support our city in embracing the new 5G era by deploying a territory-wide 5G service covering 99% of  Hong Kong. Our service is now publicly available in more than 3,000 mobile sites including all MTR lines13, country parks, remote  camping sites, hiking trails, and cycle tracks.",
+        "score": 0.81,
+        "document": "集團繼續支持香港擁抱5G新時代，室外區域覆蓋率達百分之九十九。我們擁有超過3,000個流動發射站，包括所有 港鐵綫13、郊野公園、偏遠露營地、遠足徑和單車徑。"
+    },
+    {
+        "query": "Our  non-Dynamic  Spectrum  Sharing  technology  helps  enriching  our  customer  experience  by  providing  optimal  5G  and  4G  solutions. Since 2022, our 5G customer base has almost doubled and surpassed 1,061,000, reaching a penetration rate of 32%  of our  post-paid  customer base. We will continue  to  promote the adoption of  5G to  ensure Hong Kong can fully  enjoy the  benefits of the latest technology and maintain its competitiveness on the global stage.",
+        "score": 0.935,
+        "document": "我們憑藉非動態頻譜共享技術，提供最佳5G和4G解決方案來豐富客戶體驗。自2022年起，我們的5G客戶人數升幅 接近一倍，超過1,061,000，後付客戶滲透率則達到32%。我們會繼續推動5G的應用，確保香港能夠充分享受最新 科技，並在國際舞台上保持競爭力。"
+    },
+    {
+        "query": "Since 2022, we have initiated network rollout to 24 remote villages listed under the Office of the Communications Authority  (\"OFCA\")’s  Subsidy  Scheme,  supporting  both  fibre  broadband  and  5G  mobile  backhaul.  Our  FTTH  network  and  5G  WTTH  technology have reached 98% of households in Hong Kong, enabling our customers to access high-speed broadband with 10G  fibre capacity. We have also established over 28,800 Wi-Fi hotspots in Hong Kong as of December 2022 that allows customers  connecting to the network seamlessly while traveling.",
+        "score": 0.915,
+        "document": "自2022年起，我們已在通訊事務管理局辦公室（「通訊辦」）資助計劃下所列的24個偏遠鄉村開展網絡部署工作，以支 持寬頻服務在偏遠地區的發展。我們的光纖入屋（「FTTH」）網絡和家居無線上網服務（「WTTH」）技術已覆蓋香港98% 的家庭，使我們的客戶能夠使用具有10G光纖容量的高速寬頻。我們亦已建立超過28,800個Wi-Fi熱點，讓客戶出行 時仍可以隨時隨地連接網絡。"
+    },
+    {
+        "query": "First 5G Business Hub in Hong Kong – Taikoo Place and Pacific Place",
+        "score": 0.826,
+        "document": "香港首個5G覆蓋商業區－太古坊和太古廣場"
+    },
+    {
+        "query": "Developing Hong Kong’s first 5G business hub with Swire Properties",
+        "score": 0.827,
+        "document": "香港首個5G覆蓋商業區－太古坊和太古廣場"
+    },
+    {
+        "query": "The cloud-based technology \"Workplace for Tomorrow\", collaboratively launched by HKT and New World Development  (\"NWD\"),  is  contributed  to  staff  mobility,  facilitated  team  collaboration  and  boosted  productivity.  The  cloud-based  technology  combined  with  5G  connectivity  has  enabled  users  to  perform  tasks  remotely  and  automated  business  operations.  This  creates  a  seamless  cross-border  collaboration  across  Hong  Kong  and  mainland  China  and  helps  accelerating the expansion of NWD’s business in the Greater Bay Area.",
+        "score": 0.848,
+        "document": "香港電訊及新世界發展有限公司（「新世界發展」）合作推出利用雲端科技的「Workplace  for  Tomorrow」，有效 提高員工的流動性，推動團隊合作和生產力。該技術結合5G網絡，讓使用者能遙距辦公並實現業務自動化。 這使香港與中國內地實現無縫跨境協作，幫助新世界發展在大灣區內的業務擴張。"
+    },
+    {
+        "query": "We  have  placed  great  importance  on  empowering  our  partners  to  make  ESG  commitments  through  our  technology  services. Our 5G cloud computing service supported by the Software-defined WAN (\"SD-WAN\") technology assists NWD  in strengthening their ESG practices such as cybersecurity while achieving low-carbon footprint objectives by reducing  paper consumption in offices.",
+        "score": 0.936,
+        "document": "我們高度關注如何通過所提供的技術服務來幫助我們的合作夥伴實現ESG 承諾。我們的5G 雲端運算基於SD- WAN技術，有助新世界發展鞏固如網絡安全等ESG理念，同時通過減少辦公室紙張消耗來實現低碳目標。"
+    },
+    {
+        "query": "Accelerate Digital Economy Development Digital economy is a crucial element in Smart City Development. Not only does it provide a speedy and convenient experience  for consumers, it also supports business growth and maintains Hong Kong’s position as one of the leading international financial  centres. The Group strives to support digital economy development via HKT Digital Ventures businesses which include e-payment,  digital commerce as well as our virtual bank joint venture.",
+        "score": 0.815,
+        "document": "數碼經濟在智慧城市發展中至關重要。它不僅為消費者提供了便捷的體驗，也為企業發展助力，並幫助香港維持國"
+    },
+    {
+        "query": "With its participation in CVS, Tap & Go has successfully captured a loyal customer base, especially amongst Generation  Z and the millennials, and created a great opportunity to accelerate Hong Kong’s transformation into a digital economy  and expand the Group’s customer reach. Tap & Go has also promoted contactless e-payment that eases the concern on  the wide spread of the pandemic, as well as enhancing customer experience, and by reducing our operating cost through  consuming less plastic and paper.",
+        "score": 0.85,
+        "document": "加入該計劃後，Tap  &  Go「拍住賞」成功吸引一批以Z世代和千禧一代為主的忠實客戶，並為加速香港經濟的 數碼化轉型和擴大集團客戶群創造了絕佳機會。此外，Tap  &  Go「拍住賞」推廣無接觸支付，減少傳播病毒的 機會，同時亦減少了使用塑膠和紙張，方便客戶的同時也降低了我們的營運成本。"
+    },
+    {
+        "query": "Digital economy is a crucial element in Smart City Development. Not only does it provide a speedy and convenient experience ",
+        "score": 0.818,
+        "document": "數碼經濟在智慧城市發展中至關重要。它不僅為消費者提供了便捷的體驗，也為企業發展助力，並幫助香港維持國"
+    },
+    {
+        "query": "Make Medical Service Easily Accessible Amid the pandemic, the fast track to medical consultation has become crucial. In meeting such demand, DrGo, as a one-stop  telemedicine platform, is aspired to provide cutting-edge technology in facilitating medical consultation virtually to allow the  citizens living better. DrGo leveraged its innovation edge as a health-tech solution provider, offers online consultations in need,  with the objective to help alleviating the burden on the public medical system under the influence of the pandemic, benefiting  patients and their families, as well as the health care sector.",
+        "score": 0.846,
+        "document": "電訊盈科環境、社會及管治報告2022\f讓醫療服務觸手可及 疫情期間，迅速就醫是關鍵所在。為滿足市民需求，我們的一站式遙距醫療服務平台DrGo為客戶提供嶄新的就醫體 驗，令生活變得更好。DrGo以此創新的健康科技解決方案，為有需要人士提供網上諮詢服務，幫助減輕公共醫療系 統在疫情中的負擔，均有利於患者、其家屬及醫療部門。"
+    },
+    {
+        "query": "DrGo Telemedical Service: Supporting the Community Needs",
+        "score": 0.862,
+        "document": "DrGo遙距醫療服務支援社區需要"
+    },
+    {
+        "query": "We have leveraged the DrGo platform to provide free doctor consultations to the underprivileged by sponsoring 100 free  Traditional Chinese Medicine video consultation service sessions while subsidising another 100 underprivileged families  for free general practitioner’s video consultation. In addition, we have also offered 100 high-risk individuals to undergo  bone-density tests in Quality HealthCare Medical Services and heighten local awareness on the risks of osteoporosis.",
+        "score": 0.834,
+        "document": "DrGo免費為弱勢群體提供醫療諮詢服務，包括100次免費中醫視像會診，以及免費資助100個基層家庭接受普 通科醫生視像諮詢服務。我們亦已資助100名高風險人士接受卓健醫療服務提供的骨質密度檢查，提高市民對 骨質疏鬆風險的認識。"
+    },
+    {
+        "query": "One-stop telemedicine platform – DrGo",
+        "score": 0.81,
+        "document": "一站式遙距醫療服務平台 － DrGo"
+    },
+    {
+        "query": "To combat climate change and support Hong Kong to achieve carbon neutrality, we have developed a series of green solutions  targeting the specific initiatives outlined in the Government’s Climate Action Plan 2050, namely, energy saving, green buildings  and green transport.",
+        "score": 0.924,
+        "document": "為應對氣候變化並推動香港實現碳中和，我們針對《香港氣候行動藍圖2050》所關注的減碳舉措，包括能源節約、綠 色建築及綠色運輸，制定了一系列綠色解決方案。"
+    },
+    {
+        "query": "Integrated Smart Energy Solution Enhances Energy Efficiency and  Creates a More Sustainable Future for Enterprises",
+        "score": 0.915,
+        "document": "全面智慧能源管理方案為企業提高能源效益和創造更可持續未來"
+    },
+    {
+        "query": "The Integrated Smart Energy Solution offered by HKT helps enterprises achieving energy saving in multiple ways with  5G connectivity, including deployment of renewable energy through Solar Photovoltaic, optimising energy distribution  by adding patented Quantum Optimiser to existing power system lowering energy consumption, utilising AI powered  management  system  to  control  energy  consumption  with  real-time  data  collected,  and  using  IoT  sensors  to  detect  occupancy  and  adjust  power  usage  for  higher  energy  efficiency.  Based  on  our  use  cases,  the  solution  has  effectively  reduced energy consumption by close to 10%, making a positive difference to the environment and reducing operating  costs amid the soaring electricity fees.",
+        "score": 0.802,
+        "document": "香港電訊推出的全面智慧能源管理方案可通過運用5G在多方面幫助企業節能，包括利用太陽能發電系統生產可 再生能源；通過在現有電力系統中添加獲得專利的量子能源優化器來優化能源分配，即時降低能源消耗；利用"
+    },
+    {
+        "query": "Energy  Solar PV generates renewable  energy to save money ",
+        "score": 0.922,
+        "document": "太陽能發電系統生產可再生能源 以節省成本"
+    },
+    {
+        "query": "丶",
+        "score": 0.968,
+        "document": "者"
+    },
+    {
+        "query": "Energy  Management ",
+        "score": 0.833,
+        "document": "能源消耗"
+    },
+    {
+        "query": "亥",
+        "score": 0.929,
+        "document": "祉"
+    },
+    {
+        "query": "t ",
+        "score": 0.872,
+        "document": "件"
+    },
+    {
+        "query": "Energy  Distribution ",
+        "score": 0.862,
+        "document": "能源消耗"
+    },
+    {
+        "query": "Patented Quantum Optimiser easily  added to existing power system to  lower energy consumption instantly ",
+        "score": 0.908,
+        "document": "獲得專利的量子能源優化器可輕易地 添加到現有電力系統中，以即時降低 能源消耗"
+    },
+    {
+        "query": "powered  by  L  HKT Emerging Technologies ",
+        "score": 0.95,
+        "document": "Powered by HKT Emerging Technologies"
+    },
+    {
+        "query": "To combat climate change and support Hong Kong to achieve carbon neutrality, we have developed a series of green solutions ",
+        "score": 0.895,
+        "document": "為應對氣候變化並推動香港實現碳中和，我們針對《香港氣候行動藍圖2050》所關注的減碳舉措，包括能源節約、綠 色建築及綠色運輸，制定了一系列綠色解決方案。"
+    },
+    {
+        "query": "Integrated Smart Energy Solution Enhances Energy Efficiency and ",
+        "score": 0.833,
+        "document": "全面智慧能源管理方案為企業提高能源效益和創造更可持續未來"
+    },
+    {
+        "query": "Creates a More Sustainable Future for Enterprises",
+        "score": 0.887,
+        "document": "為更多業務實現可持續發展"
+    },
+    {
+        "query": "The Integrated Smart Energy Solution offered by HKT helps enterprises achieving energy saving in multiple ways with ",
+        "score": 0.811,
+        "document": "全面智慧能源管理方案為企業提高能源效益和創造更可持續未來"
+    },
+    {
+        "query": "by adding patented Quantum Optimiser to existing power system lowering energy consumption, utilising AI powered ",
+        "score": 0.84,
+        "document": "獲得專利的量子能源優化器可輕易地 添加到現有電力系統中，以即時降低 能源消耗"
+    },
+    {
+        "query": "management  system  to  control  energy  consumption  with  real-time  data  collected,  and  using  IoT  sensors  to  detect ",
+        "score": 0.842,
+        "document": "配備有AI的管理系統，持續監控能源消耗狀況，並即時收集資料；使用IoT感應器偵測房間的使用情況，調整電"
+    },
+    {
+        "query": "reduced energy consumption by close to 10%, making a positive difference to the environment and reducing operating ",
+        "score": 0.859,
+        "document": "力使用，以有效地節能。根據我們的使用案例，該方案有效地降低接近10%的能源消耗，不但保護環境，而且"
+    },
+    {
+        "query": "business value while achieving sustainability ",
+        "score": 0.825,
+        "document": "為更多業務實現可持續發展"
+    },
+    {
+        "query": "戶",
+        "score": 0.93,
+        "document": "祉"
+    },
+    {
+        "query": "Energy ",
+        "score": 0.889,
+        "document": "能源消耗"
+    },
+    {
+        "query": "丶",
+        "score": 0.968,
+        "document": "者"
+    },
+    {
+        "query": "亥",
+        "score": 0.929,
+        "document": "祉"
+    },
+    {
+        "query": "t ",
+        "score": 0.872,
+        "document": "件"
+    },
+    {
+        "query": "Solar PV generates renewable ",
+        "score": 0.904,
+        "document": "太陽能發電系統生產可再生能源"
+    },
+    {
+        "query": "energy to save money ",
+        "score": 0.801,
+        "document": "益及降低能源消耗"
+    },
+    {
+        "query": "Energy ",
+        "score": 0.889,
+        "document": "能源消耗"
+    },
+    {
+        "query": "Management ",
+        "score": 0.933,
+        "document": "管理方法"
+    },
+    {
+        "query": "Energy ",
+        "score": 0.889,
+        "document": "能源消耗"
+    },
+    {
+        "query": "Patented Quantum Optimiser easily ",
+        "score": 0.801,
+        "document": "獲得專利的量子能源優化器可輕易地"
+    },
+    {
+        "query": "lower energy consumption instantly ",
+        "score": 0.807,
+        "document": "間接能源消耗"
+    },
+    {
+        "query": "powered  by ",
+        "score": 0.953,
+        "document": "Powered by"
+    },
+    {
+        "query": "L ",
+        "score": 0.832,
+        "document": "件"
+    },
+    {
+        "query": "HKT Emerging Technologies ",
+        "score": 1.0,
+        "document": "HKT Emerging Technologies"
+    },
+    {
+        "query": "Smart Living Solutions Help Realising Low-Carbon Lifestyle",
+        "score": 0.945,
+        "document": "Smart Living幫助實現低碳生活方式"
+    },
+    {
+        "query": "Electricity consumption per household in Hong Kong has gradually increased at an average annual rate of 1.1% in the last  decade. Meanwhile, the electricity tariff in Hong Kong has increased by over 5% per kilowatt-hour since 2022. Our Smart  Living Solutions service allows customers to regulate the room temperature and humidity, while monitoring the usage of other  electronic appliances. This service serves as a sustainable lifestyle tool, resulting in positive outcomes for both customers and  the natural environment at large.",
+        "score": 0.912,
+        "document": "過去十年，香港每戶家庭用電量以平均每年1.1%的速度逐漸增加。同時，每千瓦小時的電費由2022年起已上升 超過5%。我們的Smart Living智能家居方案讓客戶自主調節房間溫度和濕度，同時監控其他電器的使用情況。此服 務幫助客戶實踐可持續生活方式，讓客戶與環境共同受惠。"
+    },
+    {
+        "query": "Key features of the Mixpad Mini All-in-one Panel",
+        "score": 0.908,
+        "document": "Mixpad Mini多功能控制面板的主要特點"
+    },
+    {
+        "query": "Smart Charge Promotes the Adoption of EVs and Reduces   the Environmental Impacts Caused by Transportation",
+        "score": 0.899,
+        "document": "Smart Charge推廣電動車及減少由交通對環境帶來的影響"
+    },
+    {
+        "query": "Electrification of transportation system has become a global trend given the imminent needs to protect the environment  by reducing GHG emissions and air pollution. The goal of transforming Hong Kong into a greener smarter city has been  announced by the Government on the ceasing of new registration of fuel-propelled private cars, in 2035 or earlier.",
+        "score": 0.859,
+        "document": "為應對氣候變化，交通系統電動化以減少溫室氣體排放及空氣污染已成為全球趨勢。香港政府亦決心將香港"
+    },
+    {
+        "query": "Charger locations in Hong Kong",
+        "score": 0.84,
+        "document": "位於香港的充電站位置"
+    },
+    {
+        "query": "Smart Charge services provide after-sales support to customers",
+        "score": 0.965,
+        "document": "Smart Charge服務為客戶提供售後支援服務。"
+    },
+    {
+        "query": "In Hong Kong, the proportion of citizens aged 65 and over in the total population rose from 13% in 2011 to 20% in  2021, which means 1 in 5 persons in the city is an elderly. Smart Pama Service Plan is a commercial service that provides  holistic  technical  support  and  discounts  to  the  elderlies  through  a  Smart  Pama  24-hour  service  hotline,  ambassador  programmes in retail stores, free call filtering, and workshops to help them fully enjoy their digital devices including  smartphones and tablets as well as learning the useful functions such as photography and social media.",
+        "score": 0.877,
+        "document": "在香港，65歲及以上的市民佔總人口的比例由2011 年的13% 上升至2021 年的20% ，即每五人中就有一人為 長者。Smart爸媽月費計劃是一項商業服務，通過Smart爸媽24小時服務熱線、零售店大使計劃、免費電話過 濾和工作坊，為長者提供全面的技術支援和折扣，幫助他們認識智能手機和平板電腦等數碼產品，以及熟習"
+    },
+    {
+        "query": "Free call filtering and suspension  of roaming services",
+        "score": 0.811,
+        "document": "提供免費來電過濾服務並暫停漫"
+    },
+    {
+        "query": "Provide timely technical support to  the  elderlies  when  they  encounter  difficulties on using mobile phones",
+        "score": 0.848,
+        "document": "在長者使用手機遇到困難時提供"
+    },
+    {
+        "query": "Teach  the  elderlies  how  to  use  smartphones,  for  example,  setting  up  personalised  interfaces,  and  installing  new  apps,  and  scanning  the LeaveHomeSafe QR codes",
+        "score": 0.843,
+        "document": "教導長者使用智能手機，如設定"
+    },
+    {
+        "query": "TV  programmes  could  make  learning  sustainability  concepts  fun  and  enjoyable.  We  have  leveraged  our  domestic  free  broadcasting channels to disseminate knowledge regarding Science, Technology, Engineering, Art and Mathematics (\"STEAM\"),  health and environmental protection. Our diverse contents are tailored for all age groups, ranging from pre-schoolers to adults.  For example, \"Stories in the Fifth Wave of Pandemic\" and \"Say ‘Low’ To Carbon\" facilitate the understanding of the importance  of environmental conservation and how to mitigate health and climate risks and their impacts, alongside with \"Now Learn\"  inciting children’s creativity and interests in learning STEAM subjects.",
+        "score": 0.841,
+        "document": "電視節目能為可持續發展相關學習增添趣味。我們利用本地免費廣播頻道提供關於科學、技術、工程、藝術及數學"
+    },
+    {
+        "query": "In Hong Kong, the proportion of citizens aged 65 and over in the total population rose from 13% in 2011 to 20% in ",
+        "score": 0.949,
+        "document": "在香港，65歲及以上的市民佔總人口的比例由2011 年的13% 上升至2021 年的20% ，即每五人中就有一人為"
+    },
+    {
+        "query": "our senior members adjusting to this unexpected \"digital transformation\". The programme has served over 100,000 ",
+        "score": 0.809,
+        "document": "來的數碼化轉型。此服務推出至今已服務超過100,000名長者。"
+    },
+    {
+        "query": "Variety of TV programmes covering environmental, social, and STEAM topics",
+        "score": 0.897,
+        "document": "多元電視節目涵蓋環境、社會及STEAM議題"
+    },
+    {
+        "query": "ViuTV Eco-friendly TV Series",
+        "score": 0.908,
+        "document": "ViuTV環保類電視節目"
+    },
+    {
+        "query": "In recent years, we scaled up our efforts in engaging a broader audience with sustainability related concepts across TV  programmes and series. Some signature programmes from ViuTV that promote low-carbon diet, eco-tourism, and other  eco-friendly initiatives include the following:",
+        "score": 0.909,
+        "document": "近年，我們努力通過電視節目和連續劇讓更多觀眾了解到可持續發展的相關概念。ViuTV推出低碳飲食、生態 旅遊和其他環保相關的標誌性節目，包括："
+    },
+    {
+        "query": "Free call filtering and suspension ",
+        "score": 0.812,
+        "document": "提供免費來電過濾服務並暫停漫"
+    },
+    {
+        "query": "and ambassador support",
+        "score": 0.943,
+        "document": "大使支援"
+    },
+    {
+        "query": "Provide  free  call  filtering  and ",
+        "score": 0.911,
+        "document": "免費提供來電過濾並"
+    },
+    {
+        "query": "CUSTOMER EXPERIENCE,   PRODUCTS AND   SERVICES",
+        "score": 0.835,
+        "document": "客戶及市場"
+    },
+    {
+        "query": "We place high importance on delivering services and products to meet our customer expectations  and enhancing customer experience. In order to achieve the objectives, we value each customer  feedback, protect the best interests of our customers through our innovative offerings.",
+        "score": 0.936,
+        "document": "我們高度重視所提供的產品及服務，以滿足客戶的期望並提升客戶體驗。為了實現這目標，我們重視每 個客戶的反饋，及透過我們的創新產品以保護客戶的最佳利益。"
+    },
+    {
+        "query": "Enhance Customer  Experience and  Satisfaction",
+        "score": 0.948,
+        "document": "提升客戶體驗和滿意度"
+    },
+    {
+        "query": "Ensure Reliable and   High-quality Products   and Services Offerings",
+        "score": 0.921,
+        "document": "確保提供可靠和高品質的  產品及服務"
+    },
+    {
+        "query": "Enable Customers to  Enjoy Services in a Safe  Environment",
+        "score": 0.861,
+        "document": "讓客戶在安全的環境中享受服 務"
+    },
+    {
+        "query": "•  Established stringent data  privacy and information  security controls to  protect customer data •  Provided Secure Access  Service Edge (\"SASE\")  Service to prevent  cyberattacks",
+        "score": 0.807,
+        "document": "•\t建立嚴格的數據私隱和資訊 安全控制措施，以保護客戶 的數據"
+    },
+    {
+        "query": "Being a customer-centric service provider, our services and products are closely related to the livelihood of our customers and  we are committed to serving them to the fullest extent of our abilities by continuously raising our level of service excellence and  safety to meet their current and future needs.",
+        "score": 0.857,
+        "document": "作為以客戶為中心的服務供應商，我們的產品及服務與客戶的生活密切相關，我們致力通過不斷提升我們的卓越服"
+    },
+    {
+        "query": "Service Quality and Reliability The Group has implemented a set of stringent quality management protocols ensuring our services are stable and reliable. We  have a dedicated team responsible for the development and management of customer services and strictly comply with OFCA’s  requirements.",
+        "score": 0.806,
+        "document": "集團實施了一套嚴格的質量管理程序，以確保我們的服務穩定可靠。我們有專門的團隊負責客戶服務的開發和管"
+    },
+    {
+        "query": "We  have  acquired  various  international  quality  and  management  system  certifications,  including  ISO  9001:2015  (Quality  Management System) and ISO 20000–1:2018 (IT Service Management System). These certifications recognise our quality and  management systems that are aligned with international best practices.",
+        "score": 0.875,
+        "document": "我們已獲得多項國際質量和管理體系認證，包括《ISO  9001：2015（質量管理體系）》和《ISO  20000–1：2018（IT服務 管理體系）》；這些認證證明了我們的質量和管理體系與國際優秀案例保持一致。"
+    },
+    {
+        "query": "We also monitor our service reliability through the performance indicators below:",
+        "score": 0.935,
+        "document": "我們還通過以下表現指標監察我們的服務可靠性："
+    },
+    {
+        "query": "Actual Performance in 2022",
+        "score": 0.81,
+        "document": "2022年進度"
+    },
+    {
+        "query": "csl",
+        "score": 1.0,
+        "document": "csl"
+    },
+    {
+        "query": "Customer Health and Safety There may be adverse health effects associated with excessive electromagnetic radiation. We continue to monitor electromagnetic  field emittance from our facilities, ensuring compliance with standards relevant to radiation safety. Similar practices have been  extended to our suppliers. We will continue to monitor the latest industry developments and guidelines from the Department of  Health and the World Health Organisation to ensure the safety of our customers and community at large.",
+        "score": 0.84,
+        "document": "過多的電磁輻射可能會對健康產生不良影響。我們繼續監測我們設施的電磁場發射率，確保符合與輻射安全相關的"
+    },
+    {
+        "query": "Content Dissemination and Responsible Marketing We strive to ascertain our customers by providing clear and accurate information when they purchase our products and services.  We  comply  with  the  Trade  Descriptions  Ordinance  (Cap.  362)  and  offer  guidelines  and  training  to  our  sales  and  marketing  employees. Since 2022, there has been no breach of relevant regulations on advertising and labelling.",
+        "score": 0.903,
+        "document": "內容傳播及負責任的宣傳推廣 我們致力確保客戶在購買我們的產品及服務時，能夠獲得清晰準確的資訊。我們遵守《商品說明條例》（第362章）， 並為營銷和市場推廣的員工提供指引及培訓。自2022年，我們並無違反廣告和標籤相關規定。"
+    },
+    {
+        "query": "PCCW Environmental, Social and Governance Report 2022\fIn terms of content dissemination to viewers via our media platforms, our domestic television business operations are strictly  adhered  to  the  Broadcasting  Ordinance  (Cap.  562)  and  other  relevant  guidelines.  The  audience  is  informed  by  on-screen  classification symbols and advisory messages before the screening of any programmes with content unsuitable for children such  as violence, strong language, and nudity. For the underaged audience, we provide the option of parental lock on adult-oriented  programmes and offer children-friendly channels and video-on-demand content on our paid TV platform.",
+        "score": 0.807,
+        "document": "電訊盈科環境、社會及管治報告2022\f在透過旗下的媒體平台向觀眾傳播內容時，我們的本地電視業務嚴格遵守《廣播條例》（第562章）及相關指引，假如 有任何節目內容不適合兒童觀看，例如包含暴力、粗言穢語和裸露鏡頭，我們會在放映前在屏幕上顯示分類標誌和"
+    },
+    {
+        "query": "3.2 Customer Service and Feedback",
+        "score": 0.935,
+        "document": "3.2 客戶服務及反饋"
+    },
+    {
+        "query": "The Group offers a wide range of communication channels to obtain customer feedback so that we can continuously improve  our service quality.",
+        "score": 0.82,
+        "document": "集團為客戶提供多種溝通渠道，從而不斷提升我們的服務質素。"
+    },
+    {
+        "query": "Email, post and fax",
+        "score": 0.822,
+        "document": "電郵、郵寄、傳真"
+    },
+    {
+        "query": "Q&A",
+        "score": 1.0,
+        "document": "Q&A"
+    },
+    {
+        "query": "Social media",
+        "score": 0.975,
+        "document": "社交媒體"
+    },
+    {
+        "query": "We have also deployed various performance monitoring schemes to improve service quality, including:",
+        "score": 0.867,
+        "document": "我們亦實施了多項服務表現監測計劃，包括："
+    },
+    {
+        "query": "All enquiries and complaints are handled and processed in strict adherence to the Group’s Customer Service Charter.",
+        "score": 0.884,
+        "document": "所有查詢和投訴均嚴格按照集團的客戶服務章程處理。"
+    },
+    {
+        "query": "During 2022, we received 54,829 compliments and 1,485 complaints from customers; and our mobile consultants have received  over 90% Net Promoter Score.",
+        "score": 0.878,
+        "document": "在2022年間，我們收到來自客戶的54,829次讚揚及1,485次投訴；我們的通訊顧問獲得了超過90分的淨推薦值。"
+    },
+    {
+        "query": "3.4 Customer Data Privacy",
+        "score": 0.928,
+        "document": "3.4 客戶數據私隱"
+    },
+    {
+        "query": "We adhere to the highest standard of data privacy in our efforts to comply with all relevant laws and regulations and protect  our customer interests through robust internal control framework. For more details on Data Privacy policies and internal control,  please refer to the \"Sustainability at PCCW\" chapter of this report. Since 2022, there has been no known issue of leakages,  thefts, losses of customer data, or substantial complaints about non-compliance with regulations regarding the same issue. There  has also been no breach of relevant laws and regulations across the Group, including the Personal Data (Privacy) Ordinance (Cap.  486), EU’s General Data Protection Regulation, etc.",
+        "score": 0.805,
+        "document": "我們對以最高標準保障數據私隱，遵守所有相關法律和法規，並通過內部控制框架以保護客戶的利益。有關數據隱"
+    },
+    {
+        "query": "In our Privacy Statement, we specify that all data is stored safely, and limited access is only granted to authorised employees  subject to segregation of roles and responsibilities. We have taken all practical steps to ensure the accuracy and integrity of  personal data. To reduce the risk of leakage, we have also ensured that the amount of personal data collected for each campaign  or project is at the minimal and non-excessive. Personal information is collected on a \"need-to-know\" basis and we have strict  procedures in place that require our employees to inform our customers of the purpose of collection. Furthermore, we do not  keep data for longer than necessary to fulfil the purposes for which the data is used. When third-party data processor is engaged  to handle or process personal information of our customers, we will use contractual obligations or other means to ensure that  those data processors adhere to the Group’s relevant policies and standards on data handling and retention.",
+        "score": 0.862,
+        "document": "於我們的私隱聲明中，我們規定所有數據都安全儲存，並且僅向授權員工授予有限的訪問權限。我們採取一切可行"
+    },
+    {
+        "query": "3.5 Customer Information Security",
+        "score": 0.908,
+        "document": "3.5 客戶資料保安"
+    },
+    {
+        "query": "Enterprises  have  faced  greater  cybersecurity  challenges  along  the  exponential  technological  advancement.  As  a  result,  HKT  Enterprise Solutions has established three Next Generation Security Operations Centres (\"SOCs\") in Hong Kong,  Macau  and  Guangzhou respectively to provide protection and support to our customers to monitor customer firewall, reduce cyber risks  and fight against cybercrime. The SOCs are certified with ISO/IEC 27001 to deliver the effective solutions and services combating  cybersecurity  threats.  With  over  a  one-third  of  cyberattacks  which  are  stealthy  based,  the  endpoint  detection  and  response  services offer automatic protection to our customers which will respond to identified threats with speed and precision.",
+        "score": 0.924,
+        "document": "隨著技術的指數級進步，企業面臨著更大的網絡安全挑戰。因此，HKT  Enterprise  Solutions已分別在香港、澳門及 廣州設立了三間新一代資訊安全監控中心（「SOC」），為客戶提供如監控客戶防火牆、降低網絡風險及打擊網絡罪案 的保障及支援。資訊安全監控中心已通過ISO  27001認證，可提供最有效的解決方案和服務，以應對內外部的網絡安 全威脅。由於超過三分一的網絡攻擊依靠隱蔽性，端點檢測和響應服務為我們的客戶提供自動保護，能夠快速準確"
+    },
+    {
+        "query": "The Group is committed to creating positive social impact through our community initiatives. We  support the local community and participate in charitable events via sponsorships and in-kind  contributions, as well as corporate volunteering.",
+        "score": 0.947,
+        "document": "集團致力透過社區倡議創造正面社會影響。我們通過贊助及物資捐贈，以及企業義工服務來支持本地社 區並參與慈善活動。"
+    },
+    {
+        "query": "Drive Community Development and  Address its Needs",
+        "score": 0.891,
+        "document": "推動社區發展並滿足其需要"
+    },
+    {
+        "query": "•  Fostered growth and development of ",
+        "score": 0.851,
+        "document": "•\t促進下一代成長和發展"
+    },
+    {
+        "query": "broadband network services to over   3,000 community isolation facilities •  Offered free digital solutions to SMEs •  In-kind and monetary support for the ",
+        "score": 0.842,
+        "document": "•\t為超過3,000個社區隔離設施提供固網寬頻及"
+    },
+    {
+        "query": "Arts & Culture",
+        "score": 0.957,
+        "document": "藝術及文化"
+    },
+    {
+        "query": "Environment, Education and Social Inclusion",
+        "score": 0.804,
+        "document": "環保、教育及共融"
+    },
+    {
+        "query": "We  have  completed  over  50  Government  anti-epidemic  projects  resulting  in  the  installation  of  over  7,000  telephone,  fax,  broadband  and  optical  fibre  lines  for  Contact  Tracing  Office,  Public  Health  Laboratory  Services  Branches,  Huo-Yan  Laboratory, as well as quarantine centres and isolation facilities within a period of eight weeks. Meanwhile, to ensure that  residents in the community isolation facilities (\"CIFs\") can stay connected with the community, the Group has provided  fixed, wireless and mobile broadband network to over 3,000 CIFs. We have also assisted the Government in setting up over  3,000 hotlines for addressing any health-related enquiries from the public.",
+        "score": 0.882,
+        "document": "我們完成了逾50個政府抗疫項目，在八星期內安裝了逾7,000條電話線、傳真線、寬頻線及鋪設光纖服務，涉 及接觸者追蹤辦公室、公共衛生檢測中心、火眼實驗室、檢疫中心及隔離設施。同時，為確保於社區隔離設"
+    },
+    {
+        "query": "Besides  the  telecom  support,  our  corporate  volunteers  have  also  helped  with  packing  and  delivering  the  anti-epidemic  service bags to those in need.",
+        "score": 0.839,
+        "document": "除電訊支援外，我們的企業義工隊亦協助包裝及派發抗疫包予有需要人士。"
+    },
+    {
+        "query": "Participation in various community projects by our corporate volunteers",
+        "score": 0.808,
+        "document": "我們的企業義工隊參與各種社區支援"
+    },
+    {
+        "query": "•  Free e-commerce solutions for six months, including online shop, online booking and online food ordering •  Free Business Anywhere service for six months, connecting business telephone numbers with the prefix \"2\" with our ",
+        "score": 0.828,
+        "document": "•  六個月免費應用電子商貿方案，包括網上商店、網上預約及網上外賣落單系統 •  六個月免費Business  Anywhere服務，透過香港電訊「2 」字頭商業電話與手機應用程式連繫，中小企即使"
+    },
+    {
+        "query": "Comprehensive Payment Platform",
+        "score": 0.899,
+        "document": "綜合支付平台"
+    },
+    {
+        "query": "•  Complimentary selection of Now TV channels for three months, including Now News, Now BNC and Now 668",
+        "score": 0.82,
+        "document": "•  三個月免費享用Now TV頻道，包括Now新聞台，Now財經台及Now 668賽馬台"
+    },
+    {
+        "query": "PCCW Environmental, Social and Governance Report 2022\f4.3 Combating Climate Change and Protecting Biodiversity",
+        "score": 0.86,
+        "document": "4.3 應對氣候變化和保護生物多樣性"
+    },
+    {
+        "query": "Partnership with Mastercard to Build Sustainable Smart City  through Priceless Planet Coalition",
+        "score": 0.897,
+        "document": "與Mastercard合作，透過Priceless Planet Coalition 齊建可持續智慧城市"
+    },
+    {
+        "query": "Reforestation is considered one of the most effective tools to combat climate crisis and restore biodiversity. Each partner in  the Coalition contributes by funding forest restoration and promoting climate-friendly actions through its network globally.",
+        "score": 0.896,
+        "document": "植樹造林被認為是應對氣候危機和恢復生物多樣性的最有效工具之一。每個聯盟成員透過資助植樹造林和利"
+    },
+    {
+        "query": "4.4 Telecom Support",
+        "score": 0.854,
+        "document": "4.4 提供電訊支援"
+    },
+    {
+        "query": "Focusing on talent diversification and retention are crucial to cultivating an innovated and  technology-driven business like ours to stay competitive. We endeavour to cultivate an inclusive  and merit-based culture and to improve our human capital management strategies for the  development of outstanding talents across all levels.",
+        "score": 0.828,
+        "document": "作為以創新及科技驅動發展的企業，我們專注於人才多元化和留任以保持競爭力。我們致力建立包容和 任人唯賢的文化，完善人力資源管理策略，以促進各職級優秀人才的發展。"
+    },
+    {
+        "query": "Build a Positive Working Environment",
+        "score": 0.942,
+        "document": "建立正面的工作環境"
+    },
+    {
+        "query": "•  Maintained diversity and inclusiveness in ",
+        "score": 0.916,
+        "document": "多元化與包容性"
+    },
+    {
+        "query": "the workplace",
+        "score": 0.829,
+        "document": "員工"
+    },
+    {
+        "query": "In the technology industry bombarded by a constant stream of changes, we pursue talent capable of forward-thinking actions  to  manage  emerging  challenges.  We  empower  our  people  by  investing  in  their  professional  and  personal  development  and  equipping them with skills best for the future.",
+        "score": 0.829,
+        "document": "處於一個不斷變化的技術行業中，我們需要能採取前瞻性行動的人才，以應對新挑戰。我們通過投資員工的職業和"
+    },
+    {
+        "query": "Collaboration with educational institutions to attract talent",
+        "score": 0.834,
+        "document": "與教育機構合作吸引人才"
+    },
+    {
+        "query": "Earn & Learn Scheme: Our Collaborative Effort with the Government  and Vocational Training Council",
+        "score": 0.916,
+        "document": "Earn & Learn職學計劃：與政府和職業訓練局的合作"
+    },
+    {
+        "query": "Average training hours (per employee at year end  excluding part-time staff)",
+        "score": 0.864,
+        "document": "平均培訓時數  （不包括兼職員工）"
+    },
+    {
+        "query": "In  addition,  we  have  also  piloted  a  new  leadership  learning  programme,  \"Collaborate  &  LEAD\"  as  we  believe  behavioural  attributes play a key role in a fast-paced work environment. This programme offers a series of digital and experiential learning  activities,  together  with  real-life  scenarios,  such  that  our  people  managers  can  better  comprehend  the  different  behavioural  attributes and lead teams more effectively towards a common goal of sustaining business growth. The concept of \"Collaborate  & LEAD\" is specified as:",
+        "score": 0.859,
+        "document": "此外，我們還試行了一個全新的領導力培訓計劃 「Collaborate  &  LEAD」，我們相信行為特質在節奏急速的工作環境 中發揮著關鍵作用。該計劃利用一系列數碼化和體驗式學習活動，加上模擬情境，有助員工管理級別的經理更容易"
+    },
+    {
+        "query": "We conduct business with the objective to strengthen our commitment to diversity and social inclusion. We strive to eliminate  discrimination and ensure our employees are equally treated with respect and dignity regardless of their gender, disability, family  status, race, colour, descent, nationality or ethnic origins, religion, age, sexual orientation, trade union membership or other  condition recognised by law. Both internal and external stakeholders are encouraged to report actual or suspected misbehaviours  in  confidence  to  the  Audit  Committee  via  the  Group’s  independent  whistleblowing  channel.   For  more  details  on  Group’s  Whistleblower Policy and Procedures Manual, please refer to \"Sustainability at PCCW\" chapter of this report.",
+        "score": 0.851,
+        "document": "我們確保業務符合我們對多元與社會共融的承諾及準則。無論員工的性別、殘疾、家庭崗位、種族、膚色、血統、"
+    },
+    {
+        "query": "The Group strictly complies to all relevant labour laws and regulations in Hong Kong and other jurisdictions where we operate,  including but not limited to the Employment Ordinance (Cap. 57 of the Laws of Hong Kong); the Sex Discrimination Ordinance;  the  Disability  Discrimination  Ordinance  (\"DDO\");  the  Family  Status  Discrimination  Ordinance;  and  the  Race  Discrimination  Ordinance. Relevant regulatory policies and guidelines have been clearly communicated to our staff members through induction  programmes and staff handbook. In our business operations, child and forced labour are strictly prohibited. During 2022, there  has been no confirmed incidents of non-compliance with such laws or regulations.",
+        "score": 0.875,
+        "document": "集團嚴格遵守香港及其他司法管轄區的相關勞工法律及法規，包括但不限於《僱傭條例》（香港法例第57章）、《反性別 歧視條例》、《反殘疾歧視條例》、《反家庭崗位歧視條例》以及《反種族歧視條例》。相關規管政策及指引已透過入職培"
+    },
+    {
+        "query": "21,845 employees  from  62 nationalities",
+        "score": 0.944,
+        "document": "21,845位員工 來自 62個國籍 "
+    },
+    {
+        "query": "Gender ratio of 58.8%  male and 41.2% female",
+        "score": 0.874,
+        "document": "性別比例為58.8%男性 和41.2%女性"
+    },
+    {
+        "query": "33.0% of  our management ",
+        "score": 0.939,
+        "document": "33.0%的 管理層"
+    },
+    {
+        "query": "are female",
+        "score": 0.876,
+        "document": "是女性"
+    },
+    {
+        "query": "61 persons with  disabilities employed",
+        "score": 0.9,
+        "document": "聘用61位 殘疾人士"
+    },
+    {
+        "query": "health",
+        "score": 0.841,
+        "document": "健康與福祉"
+    },
+    {
+        "query": "Some of our safety training courses include:",
+        "score": 0.929,
+        "document": "安全培訓課程包括："
+    },
+    {
+        "query": "•  OSHC Automated External Defibrillator and Cardio Pulmonary Resuscitation •  Accident investigation skills •  Certificate of Competence in Display Screen Equipment Assessment •  Confined space training •  Confined Space Certified Worker Training •  Standard First Aid Certificate Training •  Work-at-height training",
+        "score": 0.801,
+        "document": "•  職安局應用心肺復蘇法配合自動外置式心臟去纖顫器 •  意外調查技能 •  顯示屏設備評估合格證書課程 •  密閉空間作業培訓 •  密閉空間作業（核准工人）培訓 •  標準急救證書訓練 •  高空工作訓練"
+    },
+    {
+        "query": "Inspecting sites with drones",
+        "score": 0.81,
+        "document": "無人機輔助檢查"
+    },
+    {
+        "query": "In response to the global climate crisis, we have leveraged technology to facilitate reducing  GHG emissions, enhancing operation and energy efficiency, and promoting sustainable resource  consumption. We will continue improving our environmental performance and collaborating  with different stakeholders, including industry leaders, customers, the Government, and  other organisations to deliver our sustainability agenda. In this chapter, we will evaluate our  contributions and impacts in relation to energy, waste and water consumption.",
+        "score": 0.942,
+        "document": "為應對全球氣候危機，我們致力於利用技術減少溫室氣體排放，提升營運和能源效率，並促進可持續的 資源使用。我們將繼續改善環境表現，並與行業領導者、客戶、政府和其他組織等不同持份者合作，以 實現我們的可持續發展計劃。在此章節，我們將評估我們在能源、廢物和水消耗方面的貢獻和影響。"
+    },
+    {
+        "query": "Reduce and Withstand the Climate  Change-related Impact",
+        "score": 0.939,
+        "document": "減少和抵禦與氣候變化相關的影響"
+    },
+    {
+        "query": "•  Enhanced energy efficiency with our ",
+        "score": 0.875,
+        "document": "能源效益"
+    },
+    {
+        "query": "own Integrated Smart Energy Solution •  Adopted AI and Machine Learning on ",
+        "score": 0.86,
+        "document": "•\t通過全面智慧能源管理方案提高能源效率 •\t採用人工智能及機器學習進行能源控制和\t"
+    },
+    {
+        "query": "energy control and monitoring •  Reduced fossil fuel consumption ",
+        "score": 0.807,
+        "document": "•\t通過使用可再生能源減少化石燃料消耗"
+    },
+    {
+        "query": "through renewable energy adoption",
+        "score": 0.92,
+        "document": "可再生能源消耗"
+    },
+    {
+        "query": "Consume Resources in a Sustainable Way",
+        "score": 0.811,
+        "document": "以可持續的方式使用資源"
+    },
+    {
+        "query": "•  Reduced, recycled and reused the resources •  Adhered to water stewardship through  automations and condensed water  collection",
+        "score": 0.9,
+        "document": "•\t減少、回收和再利用資源 •\t通過自動化和冷凝水收集以善用水資源"
+    },
+    {
+        "query": "We are  committed to reducing our impacts to the environment in our  business operation in  accordance with the applicable  environmental laws and regulations. These include the Energy Efficiency (Labelling of Products) Ordinance (Cap. 598), Product  Eco-responsibility Ordinance (Cap. 603), Product Eco-responsibility (Regulated Electrical Equipment) Regulation (Cap. 603B), and  Buildings Energy Efficiency Ordinance (Cap. 610).",
+        "score": 0.879,
+        "document": "集團致力於根據適用的環保法律與法規減少我們在業務營運中對環境的影響。這些包括《能源效益（產品標籤）條例》"
+    },
+    {
+        "query": "We have also established internal standards such as the Gas Emission Reduction Policy, Energy and Water Management Policy  and Guidelines and set forth procedures and programmes to promote the proper use of resources.",
+        "score": 0.94,
+        "document": "我們亦制定了多項內部標準，例如《減少氣體排放政策》、《能源及水資源管理政策及指引》，並制定了促進資源合理"
+    },
+    {
+        "query": "Since 2021, we have announced a series of environment targets to be achieved by 2025. Summarised below is our progress as at  year end 2022:",
+        "score": 0.96,
+        "document": "自2021年，我們公佈了一系列2025年要實現的環境目標。以下總結了我們截至2022年底的進度："
+    },
+    {
+        "query": "Electricity  Consumption",
+        "score": 0.919,
+        "document": "電力消耗"
+    },
+    {
+        "query": "Greenhouse  Gas Emission",
+        "score": 0.968,
+        "document": "溫室氣體排放"
+    },
+    {
+        "query": "Waste",
+        "score": 0.916,
+        "document": "廢料"
+    },
+    {
+        "query": "Water",
+        "score": 0.893,
+        "document": "水資源"
+    },
+    {
+        "query": "Progress in 2022",
+        "score": 0.955,
+        "document": "2022年進度"
+    },
+    {
+        "query": "Reduce absolute  electricity  consumption  by 13.2%",
+        "score": 0.865,
+        "document": "減少16.7%的電力 消耗"
+    },
+    {
+        "query": "Reduced electricity  consumption by 16.7%",
+        "score": 0.933,
+        "document": "減少16.7%的電力 消耗"
+    },
+    {
+        "query": "Reduce absolute  general waste  by 16.2%",
+        "score": 0.883,
+        "document": "一般廢物減少"
+    },
+    {
+        "query": "Increased general waste by 2.4%",
+        "score": 0.869,
+        "document": "一般廢物增加"
+    },
+    {
+        "query": "Electricity consumption and greenhouse gas emissions have lowered gradually compared to the base year in 2018. The Group  uses a cloud-based data platform to collect environmental data from FUs and BUs and monitors the actual progress against our  targets. The Environmental Advisory Group will also discuss the Group’s overall environmental performance and identify areas for  improvement quarterly.",
+        "score": 0.902,
+        "document": "與基準年相比，我們在2022年的用電量及溫室氣體排放量正逐步減少。集團使用雲端數據平台從職能單位和業務單 位收集環境數據，並監察我們的目標進度。環境諮詢小組亦會於每季度討論集團的整體環境績效並找出需要改進的"
+    },
+    {
+        "query": "A  major  part  of  our  energy  consumption  is  for  powering  communication  and  connectivity  through  our  telecommunications  network and data centres. We are committed to the proper management of our energy consumption. We have been a signatory  to the Energy Saving Charter and the Charter on External Lighting, which have been established by the Environment and Ecology  Bureau since 2016. A few key energy saving measures are highlighted below:",
+        "score": 0.877,
+        "document": "我們大部分能源消耗來自透過電訊網絡和數據中心為通訊和連接供電。我們致力於妥善管理我們的能源消耗。自"
+    },
+    {
+        "query": "•  Utilised Integrated Smart Solution to regulate the load of our buildings by achieving close to 10 % of energy savings",
+        "score": 0.821,
+        "document": "•  利用全面智慧能源管理方案來管理旗下機樓的能源使用，達到接近10%的節能效果"
+    },
+    {
+        "query": "Introduced a total of eight Euro 6 vehicles and three electric cars",
+        "score": 0.897,
+        "document": "•  共引進八部歐盟六期車輛和三部電動車"
+    },
+    {
+        "query": "•  Applied solar-prevention materials to reduce heat in rooms during daytime",
+        "score": 0.848,
+        "document": "•  使用防曬物料降低日間室內溫度"
+    },
+    {
+        "query": "•  Adopted  retro-commissioning  to  optimise  energy  usage  without  replacing  existing  equipment,  including  switching  off  non-essential  display  monitors  in  24-hour  operation  centres,  maintaining  optimal  temperature  between  24°C  and  26°C,  shortening the operating hours of air conditioners and lights in some offices and installing occupancy sensors in various office  locations, staircases, and carparks",
+        "score": 0.835,
+        "document": "•  在不更換現有設備的情況下優化能源使用，包括關閉24小時運作中心裡不必要的顯示器、將最佳溫度保持在攝氏"
+    },
+    {
+        "query": "As of 31 December 2022, renewable energy has been generated from the following solar power systems:",
+        "score": 0.943,
+        "document": "截至2022年12月31日，我們的可再生能源來自以下太陽能發電系統："
+    },
+    {
+        "query": "The  Group  prioritises  responsible  and  sustainable  consumption  behaviours.  We  have  implemented  strict  waste  management  instructions  to  ensure  proper  waste  handling  and  disposal  procedures.  We  regularly  evaluate  the  effectiveness  of  our  waste  management approach, including reuse, recycling, reprocessing and responsible waste disposal, based on the waste hierarchy  principle. We have also carried out a biennial solid waste audit for our offices in PCCW Tower. The audit shows a comprehensive  overview of waste generation in our operations and provides us with insights into those improvement areas for achieving better  waste management.",
+        "score": 0.824,
+        "document": "集團優先考慮負責任和可持續的能源使用方式。我們恪守妥善處理廢物的原則，以確保適當的廢物處理和處置程"
+    },
+    {
+        "query": "Hazardous Waste For  hazardous  waste  such  as  fluorescent  tubes,  industrial  batteries,  waste  electrical  and  electronic  equipment  (\"WEEE\")  and  general  office  batteries  are  handled  by  approved  chemical  waste  collectors  and  specialist  contractors.  The  Group  has  been  providing complimentary removal services for our customers whenever they purchase regulated electrical equipment in response  to the Government’s Producer Responsibility Scheme for WEEE. The collected waste equipment is sent to certified recyclers for  proper treatment to enable resource recovery. Since 2022, we have assisted customers removing more than 1,600 pieces of  WEEE. When our  customers replace their mobile devices, we also offer trade-in and preliminary  valuation services to reduce  waste generation and promote a circular economy.",
+        "score": 0.802,
+        "document": "廢物管理：有害廢棄物"
+    },
+    {
+        "query": "Furthermore, we have collected and recycled over 5,000 old mobile handsets and accessories from customers for donation to  Caritas Computer Workshops since 2022. During the same year, we have also collaborated with Hong Kong Battery Recycling  Centre to recycle waste lead acid batteries locally. Since 2022, a total of 215.16 tonnes of waste industrial batteries has been  recycled.",
+        "score": 0.866,
+        "document": "我們於2022年從客戶收集及回收到超過5,000件舊手提電話及相關配件，並轉贈予明愛電腦工場。年內，我們與香 港電池回收中心合作，在本地回收廢鉛酸電池。2022年共回收廢舊工業電池215.16噸。"
+    },
+    {
+        "query": "Recycling Statistics at a Glance",
+        "score": 0.941,
+        "document": "回收統計資料一覽"
+    },
+    {
+        "query": "Copper",
+        "score": 0.931,
+        "document": "銅"
+    },
+    {
+        "query": "Iron and steel",
+        "score": 0.982,
+        "document": "鐵和鋼"
+    },
+    {
+        "query": "Paper",
+        "score": 0.948,
+        "document": "紙張"
+    },
+    {
+        "query": "Industrial batteries",
+        "score": 0.974,
+        "document": "工業電池"
+    },
+    {
+        "query": "Paper is a major source of waste across our operations and value chain. As part of our commitment to paperless billing, we have  digitalised billing services for our customers over the past few years. By encouraging our customers to switch to electronic bills  for our various services, we have saved over 73 million sheets of paper. Whenever paper is required by customers or for specific  reasons, only paper that is certified for the Endorsement of Forest Certification will be used.",
+        "score": 0.802,
+        "document": "在營運過程中，紙張是其中一個主要廢物源頭。因此在過去幾年中為客戶提供電子賬單服務，實行無紙化的承諾。"
+    },
+    {
+        "query": "6.5 Water Management",
+        "score": 0.958,
+        "document": "6.5 水資源管理"
+    },
+    {
+        "query": "Guided  by  our  Energy  and  Water  Management  Policy  and  Guidelines,  the  Group  is  committed  to  conserving,  reducing,  and  reusing water in our operations. Since 2022, we have installed water-cooled condensers for collecting wastewater for flushing  and sensors on the faucet to proactively identify water-saving opportunities and control water consumption.",
+        "score": 0.846,
+        "document": "在《能源及水資源管理政策及指引》的指導下，集團致力在業務營運中節約，減少及重用水資源。自2022年起，我們 安裝水冷式冷凝器收集沖廁用水及在水龍頭上安裝感應器以識別可節水點和控制用水量。"
+    },
+    {
+        "query": "PCCW Environmental, Social and Governance Report 2022\f6.6 Sustainable Finance",
+        "score": 0.806,
+        "document": "可持續發展金融"
+    },
+    {
+        "query": "To  integrate  our  ESG  philosophy  in  our  funding  objectives,  we  have  actively  engaged  in  issuing  sustainability-linked  finance  instruments.  This  reinforces  our  long-term  commitment  to  mobilise  corporate  actions  towards  a  greener  future  and  create  sustainable value to our stakeholders.",
+        "score": 0.901,
+        "document": "為了將我們的ESG理念融入我們的融資策略，我們積極運用與可持續發展相關的金融工具。這體現了我們共建綠色 未來的長遠目標，並為我們的持份者創造可持續價值。"
+    },
+    {
+        "query": "As  at  31  December  2022,  the  Group  has  over  US$2  billion  of  sustainability-linked  loans  raised  from  financial  institutions. KPIs have been used to evaluate the Group’s sustainability performance, including GHG emissions, energy  consumption and waste management. To assess our environmental impacts and optimise the financing terms, the  performance data has been closely tracked against the agreed environmental targets on an annual basis.",
+        "score": 0.816,
+        "document": "截至2022年12月31日，集團已成功向金融機構申請超過20億美元的可持續發展表現掛鈎貸款融資，用於評估 集團的關鍵績效指標包括溫室氣體排放、能源消耗和廢物管理的可持續發展表現。為了評估我們的環境影響"
+    },
+    {
+        "query": "Green and Sustainable Deposits",
+        "score": 0.808,
+        "document": "綠色與可持續存款"
+    },
+    {
+        "query": "During 2022, we have continued to place our liquidity in green and sustainable deposits with financial institutions.  Our participation in the deposit schemes has enabled us to work together with the financial community in supporting  ESG-oriented  projects  and  organisations,  and  accelerating  the  transition  to  a  low-carbon,  climate-resilient  and  sustainable economy.",
+        "score": 0.885,
+        "document": "2022年間，我們繼續將流動資金投放於金融機構的綠色和可持續存款中。通過參與存款計劃，我們能夠與金 融界別合作，支持以ESG為導向的項目和組織，並加速低碳、具有氣候適應性和可持續發展的經濟轉型。"
+    },
+    {
+        "query": "Working with value chain partners is one of the core practices of the Group’s sustainability  strategy. Our transformation and sustainability goals depend largely on long-term and  constructive relationships with our suppliers. As a founding member of the Sustainable  Procurement Charter established by the Green Council, we are committed to sourcing and   monitoring suppliers who are committed and adhered to adopting sustainable practices.",
+        "score": 0.909,
+        "document": "與價值鏈夥伴合作是集團實踐可持續發展策略的核心之一。有賴與供應商的長期密切關係，我們的轉型 和可持續發展目標得以實現。作為環保促進會推出的《可持續採購約章》的創始成員，我們致力甄選和 監督願意承諾促進及實踐可持續發展的供應商。"
+    },
+    {
+        "query": "Strengthen Collaboration with Local  Suppliers",
+        "score": 0.912,
+        "document": "加強與本地供應商的合作"
+    },
+    {
+        "query": "•  Encouraged sustainable procurement by ",
+        "score": 0.844,
+        "document": "可持續採購"
+    },
+    {
+        "query": "•  Legal and Regulatory Compliance •  Anti-bribery and Corruption •  Labour Guidance •  Occupational Health and Safety •  Conflict of Interest •  Environment Management •  Supplier Diversity •  Engagement with the Group Strategic Purchasing •  Evidence and Review",
+        "score": 0.905,
+        "document": "•  法律及法規合規 •  反賄賂及貪污 •  勞工指引 •  職業健康與安全 •  利益衝突 •  環境管理 •  多元的供應商 •  參與集團採購策略 •  證據和檢討"
+    },
+    {
+        "query": "7.2 Continuous Supplier Assessment",
+        "score": 0.863,
+        "document": "7.2 持續供應商評估"
+    },
+    {
+        "query": "We actively review our engagements with suppliers and their standards by adhering to the GPPP. To achieve a higher standard,  we  have  attained  the  ISO  9001:2015  quality  management  system  certification  to  continue  monitoring  our  supply  chain  management and the performance of our suppliers.",
+        "score": 0.867,
+        "document": "我們積極檢討如何讓供應商遵守集團採購政策及原則。我們獲得《ISO  9001：2015（質量管理體系）》認證，以持續監 察供應鏈管理和供應商之表現。"
+    },
+    {
+        "query": "Sourcing from local production is one of the effective ways to reduce carbon footprint, particularly on GHG emissions attributed  to transportation and logistics. Amongst our 4,751 suppliers during 2022, about 80% of them are based in Hong Kong.",
+        "score": 0.899,
+        "document": "本地採購是減少碳足跡的有效方法之一，尤其有助減少運輸和物流過程中產生的溫室氣體排放。我們於2022年與超 過4,751家供應商合作，當中80%為香港供應商。"
+    },
+    {
+        "query": "Distribution of Suppliers by Geographical Locations",
+        "score": 0.862,
+        "document": "供應商地理分布"
+    },
+    {
+        "query": "Hong Kong",
+        "score": 0.957,
+        "document": "香港"
+    },
+    {
+        "query": "Mainland China",
+        "score": 0.94,
+        "document": "中國大陸"
+    },
+    {
+        "query": "Regions/ Countries outside China",
+        "score": 0.936,
+        "document": "中國以外國家或地區"
+    },
+    {
+        "query": "We have adopted a long-term approach to managing and maintaining supplier relationships by categorising them into critical  tier-118  and non-tier-1 suppliers19. By using such categorisation, we are able to adopt specific approaches and requirements for  different tiers of suppliers.  ",
+        "score": 0.83,
+        "document": "就長效地管理和維繫供應商，我們將供應商分為重點一級供應商18和非一級供應商19，以助我們為不同級別的供應商"
+    },
+    {
+        "query": "Supplier Types ",
+        "score": 0.812,
+        "document": "供應商分類"
+    },
+    {
+        "query": "Number",
+        "score": 0.823,
+        "document": "宗數"
+    },
+    {
+        "query": "Independence",
+        "score": 0.926,
+        "document": "獨立性"
+    },
+    {
+        "query": "Conclusion",
+        "score": 0.988,
+        "document": "結論"
+    },
+    {
+        "query": "•  The Report has complied with all mandatory disclosure requirements and \"comply or explain\" provisions outlined in the ESG ",
+        "score": 0.83,
+        "document": "此報告遵照GRI及聯交所ESG報告指引訂明的「匯報原則」界定報告的內容，以及確保本報告呈述的資料質素優良，包 括："
+    },
+    {
+        "query": "Reporting Guide;",
+        "score": 0.807,
+        "document": "報告範圍"
+    },
+    {
+        "query": "Environment and Ecology Bureau",
+        "score": 0.899,
+        "document": "環境及生態局"
+    },
+    {
+        "query": "Environment and Ecology Bureau",
+        "score": 0.899,
+        "document": "環境及生態局"
+    },
+    {
+        "query": "Sustainable Procurement Charter",
+        "score": 0.815,
+        "document": "可持續採購約章"
+    },
+    {
+        "query": "Charter on excavation works",
+        "score": 0.87,
+        "document": "挖掘工程憲章"
+    },
+    {
+        "query": "Membership",
+        "score": 0.925,
+        "document": "會員"
+    },
+    {
+        "query": "Type of Membership",
+        "score": 0.871,
+        "document": "會員類別"
+    },
+    {
+        "query": "3rd Generation Partnership Project",
+        "score": 0.858,
+        "document": "第三代合作夥伴計劃"
+    },
+    {
+        "query": "Individual Member",
+        "score": 0.863,
+        "document": "個別會員"
+    },
+    {
+        "query": "BCI Central",
+        "score": 1.0,
+        "document": "BCI Central"
+    },
+    {
+        "query": "Member",
+        "score": 0.92,
+        "document": "會員"
+    },
+    {
+        "query": "Communications Association of Hong Kong",
+        "score": 0.86,
+        "document": "香港無線科技商會"
+    },
+    {
+        "query": "Full Member",
+        "score": 0.816,
+        "document": "基本會員"
+    },
+    {
+        "query": "Employers’ Federation of Hong Kong",
+        "score": 0.918,
+        "document": "香港僱主聯合會"
+    },
+    {
+        "query": "Member",
+        "score": 0.92,
+        "document": "會員"
+    },
+    {
+        "query": "Hong Kong Association for Customer Service Excellence",
+        "score": 0.943,
+        "document": "香港優質顧客服務協會"
+    },
+    {
+        "query": "Founding Member and Affiliate Member",
+        "score": 0.882,
+        "document": "創始成員，附屬會員"
+    },
+    {
+        "query": "Interactive Advertising Bureau Hong Kong",
+        "score": 0.949,
+        "document": "香港互動廣告局"
+    },
+    {
+        "query": "Corporate Member",
+        "score": 0.88,
+        "document": "公司會員"
+    },
+    {
+        "query": "Hong Kong Association of Amusement Parks and  Attractions",
+        "score": 0.932,
+        "document": "香港遊樂園及景點協會"
+    },
+    {
+        "query": "Gold Member",
+        "score": 0.827,
+        "document": "金會員"
+    },
+    {
+        "query": "Hong Kong Computer Society",
+        "score": 0.962,
+        "document": "香港電腦協會"
+    },
+    {
+        "query": "Corporate Member",
+        "score": 0.88,
+        "document": "公司會員"
+    },
+    {
+        "query": "Hong Kong Customer Contact Association",
+        "score": 0.869,
+        "document": "香港客戶中心協會"
+    },
+    {
+        "query": "Member",
+        "score": 0.92,
+        "document": "會員"
+    },
+    {
+        "query": "Hong Kong E-vehicles Business General Association",
+        "score": 0.838,
+        "document": "香港管理專業協會"
+    },
+    {
+        "query": "Corporate Member",
+        "score": 0.88,
+        "document": "公司會員"
+    },
+    {
+        "query": "Hong Kong Information Technology Federation",
+        "score": 0.951,
+        "document": "香港資訊科技商會"
+    },
+    {
+        "query": "Full Membership",
+        "score": 0.825,
+        "document": "個別會員"
+    },
+    {
+        "query": "Type of Membership",
+        "score": 0.871,
+        "document": "會員類別"
+    },
+    {
+        "query": "Hong Kong Institute of Human Resource Management",
+        "score": 0.917,
+        "document": "香港人力資源管理學會"
+    },
+    {
+        "query": "Corporate Member",
+        "score": 0.88,
+        "document": "公司會員"
+    },
+    {
+        "query": "Hong Kong Institute of Marketing",
+        "score": 0.903,
+        "document": "香港廣告客戶協會"
+    },
+    {
+        "query": "Member",
+        "score": 0.92,
+        "document": "會員"
+    },
+    {
+        "query": "Hong Kong Management Association",
+        "score": 0.947,
+        "document": "香港管理專業協會"
+    },
+    {
+        "query": "Hong Kong Wireless Technology Industry Association",
+        "score": 0.872,
+        "document": "香港無線科技商會"
+    },
+    {
+        "query": "Executive Committee Member",
+        "score": 0.848,
+        "document": "執行委員會會員"
+    },
+    {
+        "query": "Interactive Advertising Bureau Hong Kong",
+        "score": 0.949,
+        "document": "香港互動廣告局"
+    },
+    {
+        "query": "Corporate Member",
+        "score": 0.88,
+        "document": "公司會員"
+    },
+    {
+        "query": "Service Provider Member",
+        "score": 0.859,
+        "document": "服務提供商成員"
+    },
+    {
+        "query": "Occupational Safety & Health Council – Green Cross Group",
+        "score": 0.833,
+        "document": "職業安全健康局－綠十字會"
+    },
+    {
+        "query": "Member",
+        "score": 0.92,
+        "document": "會員"
+    },
+    {
+        "query": "The Association of Accredited Advertising Agencies of   Hong Kong",
+        "score": 0.883,
+        "document": "香港廣告客戶協會"
+    },
+    {
+        "query": "Basic Member",
+        "score": 0.913,
+        "document": "基本會員"
+    },
+    {
+        "query": "Affiliated Member",
+        "score": 0.848,
+        "document": "附屬會員"
+    },
+    {
+        "query": "The Green Earth",
+        "score": 0.899,
+        "document": "綠惜地球"
+    },
+    {
+        "query": "The Hong Kong Advertisers Association",
+        "score": 0.957,
+        "document": "香港廣告客戶協會"
+    },
+    {
+        "query": "Full Member",
+        "score": 0.816,
+        "document": "基本會員"
+    },
+    {
+        "query": "The Hong Kong Council of Social Service",
+        "score": 0.957,
+        "document": "香港社會服務聯會"
+    },
+    {
+        "query": "The Hong Kong General Chamber of Commerce",
+        "score": 0.873,
+        "document": "香港總商會"
+    },
+    {
+        "query": "Corporate Member",
+        "score": 0.88,
+        "document": "公司會員"
+    },
+    {
+        "query": "The International Cable Protection Committee",
+        "score": 1.0,
+        "document": "The International Cable Protection Committee"
+    },
+    {
+        "query": "Member",
+        "score": 0.92,
+        "document": "會員"
+    },
+    {
+        "query": "The World Teleport Association",
+        "score": 1.0,
+        "document": "The World Teleport Association"
+    },
+    {
+        "query": "Wireless Broadband Alliance",
+        "score": 1.0,
+        "document": "Wireless Broadband Alliance"
+    },
+    {
+        "query": "The tables below present a quantitative overview of the Group’s sustainability performance for the year ended 31 December  2022, unless otherwise stated, and historical data is presented for comparison purpose.",
+        "score": 0.848,
+        "document": "除非另有說明，下表載列集團截至2022年12月31日集團可持續發展表現數據，並提供了過往數據以作比較。"
+    },
+    {
+        "query": "Indicators",
+        "score": 0.829,
+        "document": "指標"
+    },
+    {
+        "query": "Unit",
+        "score": 0.906,
+        "document": "單位"
+    },
+    {
+        "query": "Energy Consumption",
+        "score": 0.963,
+        "document": "能源消耗"
+    },
+    {
+        "query": "Total energy consumption",
+        "score": 0.967,
+        "document": "能源消耗總量"
+    },
+    {
+        "query": "Energy consumption intensity21,22",
+        "score": 0.885,
+        "document": "能源消耗密度21,22"
+    },
+    {
+        "query": "Indirect Energy Consumption",
+        "score": 0.897,
+        "document": "直接能源消耗"
+    },
+    {
+        "query": "kg",
+        "score": 0.831,
+        "document": "公斤"
+    },
+    {
+        "query": "Electricity consumption",
+        "score": 0.917,
+        "document": "電力消耗"
+    },
+    {
+        "query": "Direct Energy Consumption",
+        "score": 0.943,
+        "document": "直接能源消耗"
+    },
+    {
+        "query": "Petrol fuel – vehicle fleet",
+        "score": 0.895,
+        "document": "汽油燃料－車隊"
+    },
+    {
+        "query": "Diesel fuel – vehicle fleet",
+        "score": 0.935,
+        "document": "柴油燃料－車隊"
+    },
+    {
+        "query": "Diesel fuel – standby emergency  generators",
+        "score": 0.917,
+        "document": "柴油燃料－備用緊急發電機"
+    },
+    {
+        "query": "Renewable Energy Consumption",
+        "score": 0.974,
+        "document": "可再生能源消耗"
+    },
+    {
+        "query": "L",
+        "score": 0.832,
+        "document": "件"
+    },
+    {
+        "query": "20  Air  emissions  are  generated  from  petrol  and  diesel  fuel  combustion  in  vehicles.  The  emission  factors  are  adopted  from  \"How  to  prepare  an  ESG  Report  – ",
+        "score": 0.896,
+        "document": "20  空氣排放物是由汽車消耗汽油及柴油所產生，並根據聯交所公佈的《如何準備環境、社會及管治報告－附錄二：環境關鍵績效指標匯報指引》載列的排放"
+    },
+    {
+        "query": "23  Relevant figures have been disclosed from 2022 onwards.",
+        "score": 0.873,
+        "document": "23  相關數字自2022年起披露。"
+    },
+    {
+        "query": "Unit",
+        "score": 0.906,
+        "document": "單位"
+    },
+    {
+        "query": "•  Paper consumption",
+        "score": 0.843,
+        "document": "•  耗紙量"
+    },
+    {
+        "query": "•  Water consumption and sewage ",
+        "score": 0.801,
+        "document": "•  總耗水量與污水排放量28"
+    },
+    {
+        "query": "GHG emissions intensity21,22",
+        "score": 0.801,
+        "document": "305–4 溫室氣體排放強度"
+    },
+    {
+        "query": "Water Consumption",
+        "score": 0.83,
+        "document": "水資源"
+    },
+    {
+        "query": "Total water consumption29",
+        "score": 0.805,
+        "document": "•  總耗水量與污水排放量28"
+    },
+    {
+        "query": "Water consumption intensity21,22",
+        "score": 0.807,
+        "document": "耗水密度21,22"
+    },
+    {
+        "query": "Scope 1 emissions comprise HFC and PFC emissions from the use of refrigerants and emissions from our standby emergency generators and vehicle fleet that run ",
+        "score": 0.819,
+        "document": "25  範圍1排放量涵蓋由HFC和PFC製冷劑產生的排放；車隊及備用緊急發電機使用柴油產生的排放；以及車隊使用汽油產生的排放。我們採用了由政府間氣"
+    },
+    {
+        "query": "Unit",
+        "score": 0.906,
+        "document": "單位"
+    },
+    {
+        "query": "Waste Management: Hazardous Waste",
+        "score": 0.974,
+        "document": "廢物管理：有害廢棄物"
+    },
+    {
+        "query": "tonnes",
+        "score": 0.863,
+        "document": "噸"
+    },
+    {
+        "query": "•  Electronic and IT equipment",
+        "score": 0.873,
+        "document": "•  電子及資訊設備"
+    },
+    {
+        "query": "•  Equipment cables",
+        "score": 0.891,
+        "document": "•  設備電纜"
+    },
+    {
+        "query": "Waste Management: Non-hazardous Waste",
+        "score": 0.955,
+        "document": "廢物管理：無害廢棄物"
+    },
+    {
+        "query": "Construction waste",
+        "score": 0.876,
+        "document": "建築廢料"
+    },
+    {
+        "query": "tonnes",
+        "score": 0.863,
+        "document": "噸"
+    },
+    {
+        "query": "Total non-hazardous waste",
+        "score": 0.911,
+        "document": "無害廢棄物總量"
+    },
+    {
+        "query": "Waste Management: Waste Recycled",
+        "score": 0.965,
+        "document": "廢物管理：廢物回收"
+    },
+    {
+        "query": "Paper",
+        "score": 0.948,
+        "document": "紙張"
+    },
+    {
+        "query": "tonnes",
+        "score": 0.863,
+        "document": "噸"
+    },
+    {
+        "query": "Material Consumption: Packaging Materials",
+        "score": 0.925,
+        "document": "材料消耗：包裝材料"
+    },
+    {
+        "query": "Shopping bags",
+        "score": 0.929,
+        "document": "購物袋"
+    },
+    {
+        "query": "tonnes",
+        "score": 0.863,
+        "document": "噸"
+    },
+    {
+        "query": "Employee Workforce",
+        "score": 0.855,
+        "document": "員工"
+    },
+    {
+        "query": "Indicators",
+        "score": 0.829,
+        "document": "指標"
+    },
+    {
+        "query": "Total Workforce by Employment Type",
+        "score": 0.807,
+        "document": "按僱員類型劃分的僱員總數"
+    },
+    {
+        "query": "Total Workforce by Gender",
+        "score": 0.894,
+        "document": "按性別劃分的僱員總數"
+    },
+    {
+        "query": "Male",
+        "score": 0.904,
+        "document": "男性"
+    },
+    {
+        "query": "Female",
+        "score": 0.913,
+        "document": "女性"
+    },
+    {
+        "query": "Total Workforce by Employment Category",
+        "score": 0.817,
+        "document": "按僱員類別劃分的僱員總數"
+    },
+    {
+        "query": "Total Workforce by Age Group",
+        "score": 0.853,
+        "document": "按年齡組別劃分的僱員總數"
+    },
+    {
+        "query": "Age 30 or below",
+        "score": 0.925,
+        "document": "30歲或以下"
+    },
+    {
+        "query": "Age between 31–50",
+        "score": 0.881,
+        "document": "31–50歲"
+    },
+    {
+        "query": "Age 51 or above",
+        "score": 0.912,
+        "document": "51歲或以上"
+    },
+    {
+        "query": "Hong Kong",
+        "score": 0.957,
+        "document": "香港"
+    },
+    {
+        "query": "Outside Hong Kong",
+        "score": 0.938,
+        "document": "香港以外的地區"
+    },
+    {
+        "query": "Unit",
+        "score": 0.906,
+        "document": "單位"
+    },
+    {
+        "query": "Indicators",
+        "score": 0.829,
+        "document": "指標"
+    },
+    {
+        "query": "Total new hires37",
+        "score": 0.839,
+        "document": "新聘僱員總數37"
+    },
+    {
+        "query": "New hires rate38",
+        "score": 0.845,
+        "document": "新聘僱員比率38"
+    },
+    {
+        "query": "New Hires by Gender",
+        "score": 0.915,
+        "document": "按性別劃分的新僱員"
+    },
+    {
+        "query": "Male",
+        "score": 0.904,
+        "document": "男性"
+    },
+    {
+        "query": "Female",
+        "score": 0.913,
+        "document": "女性"
+    },
+    {
+        "query": "New Hires by Age Group",
+        "score": 0.807,
+        "document": "按年齡組別劃分的新僱員"
+    },
+    {
+        "query": "Age 30 or below",
+        "score": 0.925,
+        "document": "30歲或以下"
+    },
+    {
+        "query": "Age between 31–50",
+        "score": 0.881,
+        "document": "31–50歲"
+    },
+    {
+        "query": "Age 51 or above",
+        "score": 0.912,
+        "document": "51歲或以上"
+    },
+    {
+        "query": "Hong Kong",
+        "score": 0.957,
+        "document": "香港"
+    },
+    {
+        "query": "Outside Hong Kong",
+        "score": 0.938,
+        "document": "香港以外的地區"
+    },
+    {
+        "query": "Unit",
+        "score": 0.906,
+        "document": "單位"
+    },
+    {
+        "query": "38  New hires rate is calculated as \"total number of new hires (permanent employees) in the reporting year divided by total number of permanent employees as of ",
+        "score": 0.828,
+        "document": "新聘僱員比率38"
+    },
+    {
+        "query": "Indicators",
+        "score": 0.829,
+        "document": "指標"
+    },
+    {
+        "query": "Male",
+        "score": 0.904,
+        "document": "男性"
+    },
+    {
+        "query": "Female",
+        "score": 0.913,
+        "document": "女性"
+    },
+    {
+        "query": "Age 30 or below",
+        "score": 0.925,
+        "document": "30歲或以下"
+    },
+    {
+        "query": "Age between 31–50",
+        "score": 0.881,
+        "document": "31–50歲"
+    },
+    {
+        "query": "Age 51 or above",
+        "score": 0.912,
+        "document": "51歲或以上"
+    },
+    {
+        "query": "Hong Kong",
+        "score": 0.957,
+        "document": "香港"
+    },
+    {
+        "query": "Outside Hong Kong",
+        "score": 0.938,
+        "document": "香港以外的地區"
+    },
+    {
+        "query": "Unit",
+        "score": 0.906,
+        "document": "單位"
+    },
+    {
+        "query": "Indicators",
+        "score": 0.829,
+        "document": "指標"
+    },
+    {
+        "query": "Total number of hours worked",
+        "score": 0.815,
+        "document": "總工作時數"
+    },
+    {
+        "query": "Unit",
+        "score": 0.906,
+        "document": "單位"
+    },
+    {
+        "query": "hours",
+        "score": 0.841,
+        "document": "小時"
+    },
+    {
+        "query": "Work-Related Fatalities as a Result of Work-Related Injury",
+        "score": 0.851,
+        "document": "嚴重工傷比率（不包括死亡）"
+    },
+    {
+        "query": "Work-related fatalities reported",
+        "score": 0.833,
+        "document": "因工亡故的人數"
+    },
+    {
+        "query": "Work-related fatality rate",
+        "score": 0.895,
+        "document": "因工亡故的比率"
+    },
+    {
+        "query": "Lost days due to work injuries",
+        "score": 0.846,
+        "document": "因工傷損失工作日數。"
+    },
+    {
+        "query": "Recordable work-related injuries",
+        "score": 0.883,
+        "document": "工傷記錄"
+    },
+    {
+        "query": "Rate of recordable work-related injuries",
+        "score": 0.905,
+        "document": "工傷記錄率"
+    },
+    {
+        "query": "Work-Related Ill Health",
+        "score": 0.821,
+        "document": "與工作有關的疾病"
+    },
+    {
+        "query": "Work-related fatalities as a result of work-related   ill health",
+        "score": 0.878,
+        "document": "與工作有關的疾病導致的員工死亡"
+    },
+    {
+        "query": "Cases of recordable work-related ill health",
+        "score": 0.807,
+        "document": "與工作有關的疾病"
+    },
+    {
+        "query": "Indicators",
+        "score": 0.829,
+        "document": "指標"
+    },
+    {
+        "query": "Total training hours",
+        "score": 0.868,
+        "document": "總培訓時數"
+    },
+    {
+        "query": "Average Hours of Training by Gender40",
+        "score": 0.836,
+        "document": "按性別劃分的平均培訓時數40"
+    },
+    {
+        "query": "Male",
+        "score": 0.904,
+        "document": "男性"
+    },
+    {
+        "query": "Female",
+        "score": 0.913,
+        "document": "女性"
+    },
+    {
+        "query": "Unit",
+        "score": 0.906,
+        "document": "單位"
+    },
+    {
+        "query": "hours",
+        "score": 0.841,
+        "document": "小時"
+    },
+    {
+        "query": "hours",
+        "score": 0.841,
+        "document": "小時"
+    },
+    {
+        "query": "Average Hours of Training by Employment Category40",
+        "score": 0.85,
+        "document": "按僱員類別劃分的平均培訓時數40"
+    },
+    {
+        "query": "Male",
+        "score": 0.904,
+        "document": "男性"
+    },
+    {
+        "query": "Female",
+        "score": 0.913,
+        "document": "女性"
+    },
+    {
+        "query": "hours",
+        "score": 0.841,
+        "document": "小時"
+    },
+    {
+        "query": "Employees Receiving Regular Performance Reviews by Gender",
+        "score": 0.868,
+        "document": "按性別劃分的定期接受績效考核的僱員"
+    },
+    {
+        "query": "Male",
+        "score": 0.904,
+        "document": "男性"
+    },
+    {
+        "query": "Female",
+        "score": 0.913,
+        "document": "女性"
+    },
+    {
+        "query": "Employees Receiving Regular Performance Reviews by Employment Category",
+        "score": 0.822,
+        "document": "按僱員類別劃分的定期接受績效考核的僱員"
+    },
+    {
+        "query": "40  Average training hours is calculated as \"total training hours divided by the total number of employees at year end (excluding part-time and temporary staff)\".",
+        "score": 0.865,
+        "document": "40  平均培訓時數以總培訓時數除以年底時的總僱員人數（不包括兼職及臨時僱員）計算。 41  受訓僱員比率以總受訓僱員人數除以年底時的總僱員人數（不包括兼職及臨時僱員）乘以100%計算。"
+    },
+    {
+        "query": "Indicators",
+        "score": 0.829,
+        "document": "指標"
+    },
+    {
+        "query": "Total number of suppliers",
+        "score": 0.89,
+        "document": "供應商總數"
+    },
+    {
+        "query": "Number of Suppliers by Geographical Region",
+        "score": 0.846,
+        "document": "按地區劃分的供應商數目"
+    },
+    {
+        "query": "Hong Kong",
+        "score": 0.957,
+        "document": "香港"
+    },
+    {
+        "query": "Mainland China",
+        "score": 0.94,
+        "document": "中國大陸"
+    },
+    {
+        "query": "Regions/Countries outside China",
+        "score": 0.937,
+        "document": "中國以外國家或地區"
+    },
+    {
+        "query": "Community Investment",
+        "score": 0.98,
+        "document": "社區投資"
+    },
+    {
+        "query": "Indicators",
+        "score": 0.829,
+        "document": "指標"
+    },
+    {
+        "query": "Total volunteer hours",
+        "score": 0.821,
+        "document": "義工活動總時數"
+    },
+    {
+        "query": "Unit",
+        "score": 0.906,
+        "document": "單位"
+    },
+    {
+        "query": "Unit",
+        "score": 0.906,
+        "document": "單位"
+    },
+    {
+        "query": "hours",
+        "score": 0.841,
+        "document": "小時"
+    },
+    {
+        "query": "INDEX",
+        "score": 0.808,
+        "document": "祉"
+    },
+    {
+        "query": "Reference Chapters and Remarks",
+        "score": 0.841,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "Reporting Principles",
+        "score": 0.806,
+        "document": "報告準則"
+    },
+    {
+        "query": "About this Report",
+        "score": 0.947,
+        "document": "關於此報告"
+    },
+    {
+        "query": "About this Report",
+        "score": 0.947,
+        "document": "關於此報告"
+    },
+    {
+        "query": "Description",
+        "score": 0.96,
+        "document": "描述"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "A. Environmental",
+        "score": 0.889,
+        "document": "A. 環境"
+    },
+    {
+        "query": "Information on: (a)  the policies; and (b)  compliance with relevant laws and regulations that have a ",
+        "score": 0.805,
+        "document": "(a) 政策；及 (b) 遵守對發行人有重大影響的相關法律及規例"
+    },
+    {
+        "query": "relating to air and greenhouse gas emissions, discharges into  water and land, and generation of hazardous and non-hazardous  waste.",
+        "score": 0.904,
+        "document": "有關廢氣及溫室氣體排放、向水及土地的排污、有害及無"
+    },
+    {
+        "query": "The types of emissions and respective emissions data.",
+        "score": 0.956,
+        "document": "排放物種類及相關排放數據。"
+    },
+    {
+        "query": "Direct (Scope 1) and energy indirect (Scope 2) greenhouse gas  emissions (in tonnes) and, where appropriate, intensity.",
+        "score": 0.87,
+        "document": "直接（範圍1）及能源間接（範圍2）溫室氣體排放量（以噸計 算）及（如適用）密度。"
+    },
+    {
+        "query": "Total hazardous waste produced (in tonnes) and, where  appropriate, intensity.",
+        "score": 0.844,
+        "document": "所產生有害廢物總量（以噸計算）及（如適用）密度。"
+    },
+    {
+        "query": "Total non-hazardous waste produced (in tonnes) and, where  appropriate, intensity.",
+        "score": 0.802,
+        "document": "所產生無害廢物總量（以噸計算）及（如適用）密度。"
+    },
+    {
+        "query": "Description of emission target(s) set and steps taken to achieve  them.",
+        "score": 0.814,
+        "document": "描述所訂立的排放量目標及為達到這些目標所採取的步驟。 提高集團的環境適應性和靈活"
+    },
+    {
+        "query": "Description of how hazardous and non-hazardous wastes are  handled, and a description of reduction target(s) set and steps  taken to achieve them.",
+        "score": 0.868,
+        "document": "描述處理有害及無害廢物的方法，及描述所訂立的減廢目"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "Aspect A2: Use of Resources",
+        "score": 0.817,
+        "document": "層面A2：資源使用"
+    },
+    {
+        "query": "Policies on the efficient use of resources, including energy, water  and other raw materials.",
+        "score": 0.943,
+        "document": "有效使用資源（包括能源、水及其他原材料）的政策。"
+    },
+    {
+        "query": "Direct and/or indirect energy consumption by type in total (kWh  in ’000s) and intensity.",
+        "score": 0.809,
+        "document": "直接能源消耗"
+    },
+    {
+        "query": "Description of energy use efficiency target(s) set and steps taken  to achieve them.",
+        "score": 0.903,
+        "document": "描述所訂立的能源使用效益目標及為達到這些目標所採取"
+    },
+    {
+        "query": "Description of whether there is any issue in sourcing water that  is fit for purpose, water efficiency target(s) set and steps taken to  achieve them.",
+        "score": 0.845,
+        "document": "描述求取適用水源上可有任何問題，以及所訂立的用水效"
+    },
+    {
+        "query": "Total packaging material used for finished products (in tonnes)  and, if applicable, with reference to per unit produced.",
+        "score": 0.851,
+        "document": "製成品所用包裝材料的總量（以噸計算）及（如適用）每生產"
+    },
+    {
+        "query": "Aspect A3: The Environment and Natural Resources",
+        "score": 0.924,
+        "document": "層面A3：環境及天然資源"
+    },
+    {
+        "query": "Description of the significant impacts of activities on the  environment and natural resources and the actions taken to  manage them.",
+        "score": 0.882,
+        "document": "描述業務活動對環境及天然資源的重大影響及已採取管理"
+    },
+    {
+        "query": "Aspect A4: Climate Change",
+        "score": 0.944,
+        "document": "層面A4：氣候變化"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "B. Social",
+        "score": 0.9,
+        "document": "B.社會"
+    },
+    {
+        "query": "Employment and Labour Practices",
+        "score": 0.815,
+        "document": "僱傭及勞工常規"
+    },
+    {
+        "query": "Information on:  (a)  the policies; and  (b)  compliance with relevant laws and regulations that have a ",
+        "score": 0.805,
+        "document": "(a) 政策；及 (b) 遵守對發行人有重大影響的相關法律及規例"
+    },
+    {
+        "query": "relating to compensation and dismissal, recruitment and  promotion, working hours, rest periods, equal opportunity,  diversity, anti-discrimination, and other benefits and welfare.",
+        "score": 0.827,
+        "document": "有關薪酬及解僱、招聘及晉升、工作時數、假期、平等機"
+    },
+    {
+        "query": "Total workforce by gender, employment type, age group and  geographical region.",
+        "score": 0.884,
+        "document": "按性別、僱傭類型、年齡組別及地區劃分的僱員總數。"
+    },
+    {
+        "query": "Employee turnover rate by gender, age group and geographical  region.",
+        "score": 0.824,
+        "document": "按性別、僱傭類型、年齡組別及地區劃分的僱員總數。"
+    },
+    {
+        "query": "Aspect B2: Health and Safety",
+        "score": 0.875,
+        "document": "層面B2：健康與安全"
+    },
+    {
+        "query": "Information on:  (a)  the policies; and  (b)  compliance with relevant laws and regulations that have a ",
+        "score": 0.805,
+        "document": "(a) 政策；及 (b) 遵守對發行人有重大影響的相關法律及規例"
+    },
+    {
+        "query": "relating to providing a safe working environment and protecting  employees from occupational hazards.",
+        "score": 0.887,
+        "document": "有關提供安全工作環境及保障僱員避免職業性危害的："
+    },
+    {
+        "query": "Number and rate of work-related fatalities occurred in each of  the past three years including the reporting year.",
+        "score": 0.911,
+        "document": "過去三年（包括匯報年度）每年因工作關係而死亡的人數及"
+    },
+    {
+        "query": "Lost days due to work injury.",
+        "score": 0.84,
+        "document": "因工傷損失工作日數。"
+    },
+    {
+        "query": "Description of occupational health and safety measures adopted,  how they are implemented and monitored.",
+        "score": 0.857,
+        "document": "描述所採納的職業健康與安全措施，以及相關執行及監察"
+    },
+    {
+        "query": "Aspect B3: Development and Training",
+        "score": 0.892,
+        "document": "層面B3：發展及培訓"
+    },
+    {
+        "query": "Policies on improving employees’ knowledge and skills for  discharging duties at work. Description of training activities.",
+        "score": 0.865,
+        "document": "有關提升僱員履行工作職責的知識及技能的政策。描述培"
+    },
+    {
+        "query": "The percentage of employees trained by gender and employee  category.",
+        "score": 0.908,
+        "document": "按性別及僱員類別劃分的受訓僱員百分比。"
+    },
+    {
+        "query": "The average training hours completed per employee by gender  and employee category.",
+        "score": 0.848,
+        "document": "按性別及僱員類別劃分，每名僱員完成受訓的平均時數。"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "Aspect B4: Labour Standards",
+        "score": 0.863,
+        "document": "層面B4：勞工準則"
+    },
+    {
+        "query": "Information on: (a)  the policies; and  (b)  compliance with relevant laws and regulations that have a ",
+        "score": 0.805,
+        "document": "(a) 政策；及 (b) 遵守對發行人有重大影響的相關法律及規例"
+    },
+    {
+        "query": "relating to preventing child and forced labour.",
+        "score": 0.911,
+        "document": "有關防止童工或強制勞工的："
+    },
+    {
+        "query": "Description of measures to review employment practices to avoid  child and forced labour.",
+        "score": 0.9,
+        "document": "描述檢討招聘慣例的措施以避免童工及強制勞工。"
+    },
+    {
+        "query": "Aspect B5: Supply Chain Management",
+        "score": 0.903,
+        "document": "層面B5：供應鏈管理"
+    },
+    {
+        "query": "Policies on managing environmental and social risks of the supply  chain.",
+        "score": 0.954,
+        "document": "管理供應鏈的環境及社會風險政策。"
+    },
+    {
+        "query": "Number of suppliers by geographical region.",
+        "score": 0.856,
+        "document": "按地區劃分的供應商數目。"
+    },
+    {
+        "query": "Description of practices used to identify environmental and social  risks along the supply chain, and how they are implemented and  monitored.",
+        "score": 0.825,
+        "document": "描述有關識別供應鏈每個環節的環境及社會風險的慣例，"
+    },
+    {
+        "query": "Description of practices used to promote environmentally  preferable products and services when selecting suppliers, and  how they are implemented and monitored.",
+        "score": 0.82,
+        "document": "描述在揀選供應商時促使多用環保產品及服務的慣例，"
+    },
+    {
+        "query": "Aspect B6: Product Responsibility",
+        "score": 0.88,
+        "document": "層面B6：產品責任"
+    },
+    {
+        "query": "Information on:  (a)  the policies; and  (b)  compliance with relevant laws and regulations that have a ",
+        "score": 0.805,
+        "document": "(a) 政策；及 (b) 遵守對發行人有重大影響的相關法律及規例"
+    },
+    {
+        "query": "Enhancing Customer Experience,  Products and Services",
+        "score": 0.941,
+        "document": "提升客戶體驗、優化產品及服務"
+    },
+    {
+        "query": "relating to health and safety, advertising, labelling and privacy  matters relating to products and services provided and methods  of redress.",
+        "score": 0.806,
+        "document": "有關所提供產品和服務的健康與安全、廣告、標籤及私隱"
+    },
+    {
+        "query": "Description",
+        "score": 0.96,
+        "document": "描述"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "Enhancing Customer Experience,  Products and Services",
+        "score": 0.941,
+        "document": "提升客戶體驗、優化產品及服務"
+    },
+    {
+        "query": "Number of products and service related complaints received and  how they are dealt with.",
+        "score": 0.811,
+        "document": "接獲關於產品及服務的投訴數目以及應對方法。"
+    },
+    {
+        "query": "Enhancing Customer Experience,  Products and Services",
+        "score": 0.941,
+        "document": "提升客戶體驗、優化產品及服務"
+    },
+    {
+        "query": "Enhancing Customer Experience,  Products and Services",
+        "score": 0.941,
+        "document": "提升客戶體驗、優化產品及服務"
+    },
+    {
+        "query": "Description of consumer data protection and privacy policies,  how they are implemented and monitored.",
+        "score": 0.914,
+        "document": "描述消費者資料保障及私隱政策，以及相關執行及監察方"
+    },
+    {
+        "query": "Enhancing Customer Experience,  Products and Services",
+        "score": 0.941,
+        "document": "提升客戶體驗、優化產品及服務"
+    },
+    {
+        "query": "Information on:  (a)  the policies; and  (b)  compliance with relevant laws and regulations that have a ",
+        "score": 0.805,
+        "document": "(a) 政策；及 (b) 遵守對發行人有重大影響的相關法律及規例"
+    },
+    {
+        "query": "relating to bribery, extortion, fraud and money laundering.",
+        "score": 0.841,
+        "document": "反賄賂及貪污"
+    },
+    {
+        "query": "Description of anti-corruption training provided to directors and  staff.",
+        "score": 0.936,
+        "document": "描述向董事及員工提供的反貪污培訓。"
+    },
+    {
+        "query": "Community",
+        "score": 0.96,
+        "document": "社區"
+    },
+    {
+        "query": "Aspect B8: Community Investment",
+        "score": 0.924,
+        "document": "層面B8：社區投資"
+    },
+    {
+        "query": "Policies on community engagement to understand the needs  of the communities where the issuer operates and to ensure its  activities take into consideration the communities’ interests.",
+        "score": 0.846,
+        "document": "動會考慮社區利益的政策。"
+    },
+    {
+        "query": "Caring for the Community",
+        "score": 0.955,
+        "document": "關懷社區"
+    },
+    {
+        "query": "Focus areas of contribution.",
+        "score": 0.897,
+        "document": "專注貢獻範疇。"
+    },
+    {
+        "query": "Resources contributed to the focus area.",
+        "score": 0.83,
+        "document": "在專注範疇所動用資源。"
+    },
+    {
+        "query": "Caring for the Community",
+        "score": 0.955,
+        "document": "關懷社區"
+    },
+    {
+        "query": "Caring for the Community",
+        "score": 0.955,
+        "document": "關懷社區"
+    },
+    {
+        "query": "GRI Disclosure",
+        "score": 0.839,
+        "document": "GRI披露"
+    },
+    {
+        "query": "Statement of use",
+        "score": 0.813,
+        "document": "使用聲明"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "The Group has reported in accordance with the GRI  Standards for the period from 1 January 2022 to 31  December 2022.",
+        "score": 0.891,
+        "document": "集團已根據GRI準則報告了2022年 1月1日至2022年 12月31日期間的情況。"
+    },
+    {
+        "query": "2-1 Organisational details",
+        "score": 0.904,
+        "document": "2–1 組織詳細情況"
+    },
+    {
+        "query": "2-2 Entities included in the organisation’s sustainability  reporting",
+        "score": 0.864,
+        "document": "2–2 納入組織可持續發展報告的實體"
+    },
+    {
+        "query": "About this Report",
+        "score": 0.947,
+        "document": "關於此報告"
+    },
+    {
+        "query": "About this Report",
+        "score": 0.947,
+        "document": "關於此報告"
+    },
+    {
+        "query": "2-3 Reporting period, frequency and contact point",
+        "score": 0.843,
+        "document": "2–3 報告期、報告頻率和聯繫人"
+    },
+    {
+        "query": "About this Report",
+        "score": 0.947,
+        "document": "關於此報告"
+    },
+    {
+        "query": "2-4 Restatements of information",
+        "score": 0.889,
+        "document": "2–4 信息重述"
+    },
+    {
+        "query": "2-6 Activities, value chain and other business relationships",
+        "score": 0.85,
+        "document": "2–6 活動、價值鏈和其他業務關係"
+    },
+    {
+        "query": "About this Report Netting the Value Chain Corporate Website – About us Corporate Website – Our Supply Chain Management",
+        "score": 0.809,
+        "document": "企業網頁－我們的供應鏈管理"
+    },
+    {
+        "query": "2-8 Workers who are not employees",
+        "score": 0.859,
+        "document": "2–8 員工之外的工作者"
+    },
+    {
+        "query": "2-10 Nomination and selection of the highest governance  body",
+        "score": 0.835,
+        "document": "2–10 最高管治機構的提名與遴選"
+    },
+    {
+        "query": "2-12 Role of the highest governance body in overseeing the  management of impacts",
+        "score": 0.854,
+        "document": "2–12 在管理影響方面，最高管治機構的監督作用"
+    },
+    {
+        "query": "2-13 Delegation of responsibility for managing impacts",
+        "score": 0.813,
+        "document": "2–13 為管理影響的責任授權"
+    },
+    {
+        "query": "2-14 Role of the highest governance body in sustainability  reporting",
+        "score": 0.854,
+        "document": "2–14 最高管治機構在可持續發展報告中的作用"
+    },
+    {
+        "query": "Sustainability at PCCW – Sustainability Governance  Structure and Oversight Responsibilities",
+        "score": 0.808,
+        "document": "1.1 可持續發展管治架構及監督責任"
+    },
+    {
+        "query": "2-16 Communication of critical concerns",
+        "score": 0.849,
+        "document": "2–16 重要關切問題的溝通"
+    },
+    {
+        "query": "2-17 Collective knowledge of the highest governance body",
+        "score": 0.852,
+        "document": "2–17 最高管治機構的共同知識"
+    },
+    {
+        "query": "2-18 Evaluation of the performance of the highest  governance body",
+        "score": 0.814,
+        "document": "2–18 對最高管治機構的績效評估"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "Annual Report – Financial Information",
+        "score": 0.902,
+        "document": "年報－財務資料"
+    },
+    {
+        "query": "2-22 Statement on sustainable development strategy",
+        "score": 0.934,
+        "document": "2–22 關於可持續發展策略的聲明"
+    },
+    {
+        "query": "2-23 Policy commitments",
+        "score": 0.917,
+        "document": "2–23 政策承諾"
+    },
+    {
+        "query": "2-24 Embedding policy commitments",
+        "score": 0.844,
+        "document": "2–23 政策承諾"
+    },
+    {
+        "query": "2-27 Compliance with laws and regulations",
+        "score": 0.864,
+        "document": "2–27 遵守法律法規"
+    },
+    {
+        "query": "Since 2022, we have not been subject to any significant  fines or non-monetary sanctions due to non-compliance  with relevant laws or regulations. ",
+        "score": 0.827,
+        "document": "集團於2022年內未因違反法律法規而招致重大罰款和 非金錢制裁。"
+    },
+    {
+        "query": "2-28 Membership associations",
+        "score": 0.832,
+        "document": "2–28 協會的會員資格"
+    },
+    {
+        "query": "2-30 Collective bargaining agreements",
+        "score": 0.852,
+        "document": "2–30 集體談判協議"
+    },
+    {
+        "query": "201-1 Direct economic value generated and distributed",
+        "score": 0.813,
+        "document": "201–1 直接產生和分配的經濟價值"
+    },
+    {
+        "query": "201-2 Financial implications and other risks and  opportunities due to climate change",
+        "score": 0.945,
+        "document": "201–2 氣候變化帶來的財務影響以及其他風險和機遇"
+    },
+    {
+        "query": "201-3 Defined benefit plan obligations and other retirement  plans",
+        "score": 0.847,
+        "document": "201–3 固定福利計劃義務和其他退休計劃"
+    },
+    {
+        "query": "201-4 Financial assistance received from government",
+        "score": 0.853,
+        "document": "201–4 政府給予的財政補貼"
+    },
+    {
+        "query": "We have not received significant financial assistance from  any government. ",
+        "score": 0.812,
+        "document": "我們並沒有接受由政府給予的重大財政補貼。"
+    },
+    {
+        "query": "202-1 Ratios of standard entry level wage by gender  compared to local minimum wage",
+        "score": 0.839,
+        "document": "202–1 按性別的標準起薪水平工資與當地最低工資 之比率"
+    },
+    {
+        "query": "202-2 Proportion of senior management hired from the  local community",
+        "score": 0.828,
+        "document": "202–2 從當地社區僱用高階管理階層的比例"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "GRI 203: Indirect Economic Impacts 2016",
+        "score": 0.958,
+        "document": "GRI 203：間接經濟影響2016"
+    },
+    {
+        "query": "203-1 Infrastructure investments and services supported",
+        "score": 0.892,
+        "document": "203–1 基礎設施投資和支援性服務"
+    },
+    {
+        "query": "203-2 Significant indirect economic impacts",
+        "score": 0.919,
+        "document": "203–2 重大間接經濟影響"
+    },
+    {
+        "query": "204-1 Proportion of spending on local suppliers",
+        "score": 0.885,
+        "document": "204–1 向當地供應商採購的支出比例"
+    },
+    {
+        "query": "205-1 Operations assessed for risks related to corruption",
+        "score": 0.855,
+        "document": "205–1 已進行貪腐風險評估的營運據點"
+    },
+    {
+        "query": "205-2 Communication and training about anti-corruption  policies and procedures",
+        "score": 0.886,
+        "document": "205–2 反腐敗政策和程式的傳達及培訓"
+    },
+    {
+        "query": "205-3 Confirmed incidents of corruption and actions taken",
+        "score": 0.818,
+        "document": "205–3 經確認的腐敗事件和採取的行動"
+    },
+    {
+        "query": "206-1 Legal actions for anti-competitive behaviour, anti- trust, and monopoly practices",
+        "score": 0.852,
+        "document": "206–1 針對反競爭行為、反托拉斯和反壟斷實踐的法 律訴訟"
+    },
+    {
+        "query": "301-1 Materials used by weight or volume",
+        "score": 0.803,
+        "document": "301–1 所用物料的重量或體積"
+    },
+    {
+        "query": "301-3 Reclaimed products and their packaging materials",
+        "score": 0.861,
+        "document": "301–3 回收產品及其包材"
+    },
+    {
+        "query": "302-1 Energy consumption within the organisation",
+        "score": 0.838,
+        "document": "302–2 組織外部的能源消耗量"
+    },
+    {
+        "query": "302-2 Energy consumption outside of the organisation",
+        "score": 0.853,
+        "document": "302–2 組織外部的能源消耗量"
+    },
+    {
+        "query": "302-3 Energy intensity",
+        "score": 0.9,
+        "document": "302–3 能源強度"
+    },
+    {
+        "query": "302-4 Reduction of energy consumption",
+        "score": 0.946,
+        "document": "302–4 降低能源消耗量"
+    },
+    {
+        "query": "302-5 Reductions in energy requirements of products and  services",
+        "score": 0.927,
+        "document": "302–5 降低產品和服務的能源需求量"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "305-2 Energy indirect (Scope 2) GHG emissions",
+        "score": 0.83,
+        "document": "305–2 能源間接（範疇二）溫室氣體排放"
+    },
+    {
+        "query": "305-4 GHG emissions intensity",
+        "score": 0.857,
+        "document": "305–4 溫室氣體排放強度"
+    },
+    {
+        "query": "305-5 Reduction of GHG emissions",
+        "score": 0.811,
+        "document": "305–5 溫室氣體減排量"
+    },
+    {
+        "query": "305-7 Nitrogen oxides (NOx), sulphur oxides (SOx), and  other significant air emissions",
+        "score": 0.914,
+        "document": "305–7 氮氧化物(NOx)、硫氧化物(SOx)和其他重大氣 體排放"
+    },
+    {
+        "query": "306-1 Waste generation and significant waste-related  impacts",
+        "score": 0.951,
+        "document": "306–1 廢棄物的產生與廢棄物相關顯著衝擊"
+    },
+    {
+        "query": "306-2 Management of significant waste-related impacts",
+        "score": 0.944,
+        "document": "306–2 廢棄物相關顯著衝擊之管理"
+    },
+    {
+        "query": "306-3 Waste generated",
+        "score": 0.953,
+        "document": "306–3 廢棄物的產生"
+    },
+    {
+        "query": "306-4 Waste diverted from disposal",
+        "score": 0.829,
+        "document": "306–3 廢棄物的產生"
+    },
+    {
+        "query": "306-5 Waste directed to disposal",
+        "score": 0.865,
+        "document": "306–5 廢棄物的直接處置"
+    },
+    {
+        "query": "GRI 308: Supplier Environmental Assessment 2016",
+        "score": 0.947,
+        "document": "GRI 308：供應商環境評估2016"
+    },
+    {
+        "query": "308-1 New suppliers that were screened using  environmental criteria",
+        "score": 0.835,
+        "document": "308–1 使用環境評價維度篩選的新供應商"
+    },
+    {
+        "query": "308-2 Negative environmental impacts in the supply chain  and actions taken",
+        "score": 0.939,
+        "document": "308–2 供應鏈的負面環境影響以及採取的行動 "
+    },
+    {
+        "query": "401-2 Benefits provided to full-time employees that are not  provided to temporary or part-time employees",
+        "score": 0.808,
+        "document": "401–2 提供給全職員工（不包括臨時或兼職員工）的福 利"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "GRI 403: Occupational Health and Safety 2018",
+        "score": 0.943,
+        "document": "GRI 403：職業健康與安全2018"
+    },
+    {
+        "query": "403-1 Occupational health and safety management system",
+        "score": 0.85,
+        "document": "403–1 職業健康與安全管理體系"
+    },
+    {
+        "query": "403-2 Hazard identification, risk assessment, and incident  investigation",
+        "score": 0.933,
+        "document": "403–2 危害識別、風險評估和事故調查"
+    },
+    {
+        "query": "403-3 Occupational health services",
+        "score": 0.885,
+        "document": "403–3 職業健康服務"
+    },
+    {
+        "query": "403-4 Worker participation, consultation, and  communication on occupational health and safety",
+        "score": 0.889,
+        "document": "403–4 職業健康安全事務：工作者的參與、意見徵詢 和溝通"
+    },
+    {
+        "query": "403-5 Worker training on occupational health and safety",
+        "score": 0.877,
+        "document": "403–5 工作者職業健康安全培訓"
+    },
+    {
+        "query": "403-6 Promotion of worker health",
+        "score": 0.928,
+        "document": "403–6 促進工作者健康"
+    },
+    {
+        "query": "403-8 Workers covered by an occupational health and  safety management system",
+        "score": 0.873,
+        "document": "403–8 職業健康安全管理體系覆蓋的工作者"
+    },
+    {
+        "query": "GRI 404: Training and Education 2016",
+        "score": 0.992,
+        "document": "GRI 404：培訓與教育2016"
+    },
+    {
+        "query": "404-1 Average hours of training per year per employee",
+        "score": 0.859,
+        "document": "404–1 每名員工每年接受培訓的平均小時數"
+    },
+    {
+        "query": "404-2 Programmes for upgrading employee skills and  transition assistance programmes",
+        "score": 0.926,
+        "document": "404–2 員工技能提升方案和過渡援助方案"
+    },
+    {
+        "query": "404-3 Percentage of employees receiving regular  performance and career development reviews",
+        "score": 0.915,
+        "document": "404–3 接受定期績效和職業發展考核的員工百分比"
+    },
+    {
+        "query": "GRI 405: Diversity and Equal Opportunity 2016",
+        "score": 0.973,
+        "document": "GRI 405：多元化與平等機會2016"
+    },
+    {
+        "query": "405-1 Diversity of governance bodies and employees",
+        "score": 0.844,
+        "document": "405–1 管治機構與員工的多元化"
+    },
+    {
+        "query": "405-2 Ratio of basic salary and remuneration of women to  men",
+        "score": 0.922,
+        "document": "405–2 男女基本工資和報酬的比例"
+    },
+    {
+        "query": "Reference Chapters/ Remarks",
+        "score": 0.839,
+        "document": "參考章節╱備註"
+    },
+    {
+        "query": "406-1 Incidents of discrimination and corrective actions  taken",
+        "score": 0.886,
+        "document": "406–1 歧視事件及採取的糾正行動"
+    },
+    {
+        "query": "GRI 409: Forced or Compulsory Labour 2016",
+        "score": 0.943,
+        "document": "GRI 409：強迫或強制勞動2016"
+    },
+    {
+        "query": "Caring for the Community",
+        "score": 0.955,
+        "document": "關懷社區"
+    },
+    {
+        "query": "GRI 414: Supplier Social Assessment 2016",
+        "score": 0.942,
+        "document": "GRI 414：供應商社會評估2016"
+    },
+    {
+        "query": "Caring for the Community",
+        "score": 0.955,
+        "document": "關懷社區"
+    },
+    {
+        "query": "Caring for the Community",
+        "score": 0.955,
+        "document": "關懷社區"
+    },
+    {
+        "query": "414-1 New suppliers that were screened using social criteria",
+        "score": 0.828,
+        "document": "414–1 使用社會標準篩選新供應商"
+    },
+    {
+        "query": "414-2 Negative social impacts in the supply chain and  actions taken",
+        "score": 0.945,
+        "document": "414–2 供應鏈中負面的社會衝擊以及所採取的行動"
+    },
+    {
+        "query": "415-1 Political contributions",
+        "score": 0.871,
+        "document": "415–1 政治捐助"
+    },
+    {
+        "query": "GRI 416: Customer Health and Safety 2016",
+        "score": 0.968,
+        "document": "GRI 416：顧客健康與安全2016"
+    },
+    {
+        "query": "Enhancing Customer Experience, Products and Services",
+        "score": 0.941,
+        "document": "提升客戶體驗、優化產品及服務"
+    },
+    {
+        "query": "416-1 Assessment of the health and safety impacts of  product and service categories",
+        "score": 0.921,
+        "document": "416–1 評估產品和服務類別的健康與安全影響"
+    },
+    {
+        "query": "416-2 Incidents of non-compliance concerning the health  and safety impacts of products and services",
+        "score": 0.833,
+        "document": "416–2 涉及產品和服務的健康與安全影響的違規事件"
+    },
+    {
+        "query": "Enhancing Customer Experience, Products and Services",
+        "score": 0.941,
+        "document": "提升客戶體驗、優化產品及服務"
+    },
+    {
+        "query": "Enhancing Customer Experience, Products and Services",
+        "score": 0.941,
+        "document": "提升客戶體驗、優化產品及服務"
+    },
+    {
+        "query": "Enhancing Customer Experience, Products and Services",
+        "score": 0.941,
+        "document": "提升客戶體驗、優化產品及服務"
+    },
+    {
+        "query": "418-1 Substantiated complaints concerning breaches of  customer privacy and losses of customer data",
+        "score": 0.865,
+        "document": "418–1 涉及侵犯客戶私隱和丟失客戶資料的經證實的投 訴"
+    },
+    {
+        "query": "Enhancing Customer Experience, Products and Services",
+        "score": 0.941,
+        "document": "提升客戶體驗、優化產品及服務"
+    },
+    {
+        "query": "",
+        "score": 1.0,
+        "document": ""
+    }
+]

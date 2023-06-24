@@ -5,7 +5,7 @@ import re
 
 from dotenv import load_dotenv
 from nltk.tokenize import sent_tokenize
-from langdetect import detect
+# from langdetect import detect
 
 load_dotenv('.env')
 # Define file path
@@ -35,7 +35,7 @@ def get_sentences_segments(extracted_text):
     extracted_text = re.sub('[“”]', '"', extracted_text)
     # Segmentation of sentences
     sentences = extracted_text.split('\n\n')
-    english_sentences = [sentence for sentence in sentences if sentence and is_english(sentence) and detect(sentence) == 'en']
+    english_sentences = [sentence for sentence in sentences if sentence and is_english(sentence)]
     return english_sentences
 
 
